@@ -3,7 +3,6 @@ import json
 
 
 
-
 def generate_token(device_number):
     url = 'https://c11jfu1uhzw5xo.credentials.iot.us-east-1.amazonaws.com/role-aliases/S3-IOT-access-role-alias/credentials'
     cert = ('deviceCert_{}.crt'.format(device_number), 'deviceCert_{}.key'.format(device_number))
@@ -11,7 +10,7 @@ def generate_token(device_number):
 
     try:
         print("Fetching the secure access token from IoT Core Credentials Provider...")
-        # Make the request
+        # Make the request for the token
         response = requests.get(url, cert=cert, headers=headers)
             
         # Check the response status code
