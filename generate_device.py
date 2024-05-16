@@ -42,7 +42,7 @@ def generate_device(count_of_devices):
                     "-d"
                 ]
                 subprocess.run(mosquitto_command_specific, check=True)
-                print("Message published successfully for device")
+                print("Things generated successfully for devices")
                 
                 
 

@@ -1,0 +1,3434 @@
+[
+  {
+    "topic": "CTI-co.therapyparsingservice-v2.daysummary-snapshot.therapydataobservation-v2",
+    "partition": 18,
+    "offset": 0,
+    "timestamp": 1710159000930,
+    "headers": null,
+    "key": "\u0000\u0000\u0000\u0000\u0002\u001aJPP1234565FE8",
+    "value": {
+      "observations": [
+        {
+          "valueSampledData": null,
+          "valueString": null,
+          "deviceSoftwareVersion": "V1.0.0.894",
+          "effectivePeriod": {
+            "start": 1484784000000,
+            "end": 1484870399000
+          },
+          "identifiers": [
+            {
+              "value": "1108b25d-186c-388e-9674-f9448bf38164",
+              "type": "UUID",
+              "system": "CareOrchestrator"
+            }
+          ],
+          "valueRange": null,
+          "mode": "ASVwithAutoEPAPwithFlex",
+          "originatingSystemIdentifier": {
+            "value": "1108b25d-186c-388e-9674-f9448bf38164",
+            "type": "UUID",
+            "system": "CareOrchestrator"
+          },
+          "deviceMetric": {
+            "category": "calculation",
+            "identifiers": [
+              {
+                "value": "Flex_last",
+                "type": "String",
+                "system": "CareOrchestrator"
+              }
+            ],
+            "originatingSystemIdentifier": {
+              "value": "Flex_last",
+              "type": "String",
+              "system": "CareOrchestrator"
+            }
+          },
+          "valueQuantity": {
+            "value": 2,
+            "unit": "N/A",
+            "numberOfSamples": null,
+            "comparator": null
+          },
+          "deviceSerialNumber": "JPP1234565FE8",
+          "valueType": "valueQuantity"
+        },
+        {
+          "valueSampledData": null,
+          "valueString": null,
+          "deviceSoftwareVersion": "V1.0.0.894",
+          "effectivePeriod": {
+            "start": 1484784000000,
+            "end": 1484870399000
+          },
+          "identifiers": [
+            {
+              "value": "1108b25d-186c-388e-9674-f9448bf38164",
+              "type": "UUID",
+              "system": "CareOrchestrator"
+            }
+          ],
+          "valueRange": null,
+          "mode": "ASVwithAutoEPAPwithFlex",
+          "originatingSystemIdentifier": {
+            "value": "1108b25d-186c-388e-9674-f9448bf38164",
+            "type": "UUID",
+            "system": "CareOrchestrator"
+          },
+          "deviceMetric": {
+            "category": "calculation",
+            "identifiers": [
+              {
+                "value": "Flex",
+                "type": "String",
+                "system": "CareOrchestrator"
+              }
+            ],
+            "originatingSystemIdentifier": {
+              "value": "Flex",
+              "type": "String",
+              "system": "CareOrchestrator"
+            }
+          },
+          "valueQuantity": {
+            "value": 2,
+            "unit": "N/A",
+            "numberOfSamples": null,
+            "comparator": null
+          },
+          "deviceSerialNumber": "JPP1234565FE8",
+          "valueType": "valueQuantity"
+        },
+        {
+          "valueSampledData": null,
+          "valueString": null,
+          "deviceSoftwareVersion": "V1.0.0.894",
+          "effectivePeriod": {
+            "start": 1484784000000,
+            "end": 1484870399000
+          },
+          "identifiers": [
+            {
+              "value": "1108b25d-186c-388e-9674-f9448bf38164",
+              "type": "UUID",
+              "system": "CareOrchestrator"
+            }
+          ],
+          "valueRange": null,
+          "mode": "ASVwithAutoEPAPwithFlex",
+          "originatingSystemIdentifier": {
+            "value": "1108b25d-186c-388e-9674-f9448bf38164",
+            "type": "UUID",
+            "system": "CareOrchestrator"
+          },
+          "deviceMetric": {
+            "category": "calculation",
+            "identifiers": [
+              {
+                "value": "Epap_min",
+                "type": "String",
+                "system": "CareOrchestrator"
+              }
+            ],
+            "originatingSystemIdentifier": {
+              "value": "Epap_min",
+              "type": "String",
+              "system": "CareOrchestrator"
+            }
+          },
+          "valueQuantity": {
+            "value": 10.5,
+            "unit": "N/A",
+            "numberOfSamples": null,
+            "comparator": null
+          },
+          "deviceSerialNumber": "JPP1234565FE8",
+          "valueType": "valueQuantity"
+        },
+        {
+          "valueSampledData": null,
+          "valueString": null,
+          "deviceSoftwareVersion": "V1.0.0.894",
+          "effectivePeriod": {
+            "start": 1484784000000,
+            "end": 1484870399000
+          },
+          "identifiers": [
+            {
+              "value": "1108b25d-186c-388e-9674-f9448bf38164",
+              "type": "UUID",
+              "system": "CareOrchestrator"
+            }
+          ],
+          "valueRange": null,
+          "mode": "ASVwithAutoEPAPwithFlex",
+          "originatingSystemIdentifier": {
+            "value": "1108b25d-186c-388e-9674-f9448bf38164",
+            "type": "UUID",
+            "system": "CareOrchestrator"
+          },
+          "deviceMetric": {
+            "category": "calculation",
+            "identifiers": [
+              {
+                "value": "Epap_max",
+                "type": "String",
+                "system": "CareOrchestrator"
+              }
+            ],
+            "originatingSystemIdentifier": {
+              "value": "Epap_max",
+              "type": "String",
+              "system": "CareOrchestrator"
+            }
+          },
+          "valueQuantity": {
+            "value": 15,
+            "unit": "N/A",
+            "numberOfSamples": null,
+            "comparator": null
+          },
+          "deviceSerialNumber": "JPP1234565FE8",
+          "valueType": "valueQuantity"
+        },
+        {
+          "valueSampledData": null,
+          "valueString": null,
+          "deviceSoftwareVersion": "V1.0.0.894",
+          "effectivePeriod": {
+            "start": 1484784000000,
+            "end": 1484870399000
+          },
+          "identifiers": [
+            {
+              "value": "1108b25d-186c-388e-9674-f9448bf38164",
+              "type": "UUID",
+              "system": "CareOrchestrator"
+            }
+          ],
+          "valueRange": null,
+          "mode": "ASVwithAutoEPAPwithFlex",
+          "originatingSystemIdentifier": {
+            "value": "1108b25d-186c-388e-9674-f9448bf38164",
+            "type": "UUID",
+            "system": "CareOrchestrator"
+          },
+          "deviceMetric": {
+            "category": "calculation",
+            "identifiers": [
+              {
+                "value": "Pressure_max",
+                "type": "String",
+                "system": "CareOrchestrator"
+              }
+            ],
+            "originatingSystemIdentifier": {
+              "value": "Pressure_max",
+              "type": "String",
+              "system": "CareOrchestrator"
+            }
+          },
+          "valueQuantity": {
+            "value": 25.5,
+            "unit": "N/A",
+            "numberOfSamples": null,
+            "comparator": null
+          },
+          "deviceSerialNumber": "JPP1234565FE8",
+          "valueType": "valueQuantity"
+        },
+        {
+          "valueSampledData": null,
+          "valueString": null,
+          "deviceSoftwareVersion": "V1.0.0.894",
+          "effectivePeriod": {
+            "start": 1484784000000,
+            "end": 1484870399000
+          },
+          "identifiers": [
+            {
+              "value": "1108b25d-186c-388e-9674-f9448bf38164",
+              "type": "UUID",
+              "system": "CareOrchestrator"
+            }
+          ],
+          "valueRange": null,
+          "mode": "ASVwithAutoEPAPwithFlex",
+          "originatingSystemIdentifier": {
+            "value": "1108b25d-186c-388e-9674-f9448bf38164",
+            "type": "UUID",
+            "system": "CareOrchestrator"
+          },
+          "deviceMetric": {
+            "category": "calculation",
+            "identifiers": [
+              {
+                "value": "PressureSupport_min",
+                "type": "String",
+                "system": "CareOrchestrator"
+              }
+            ],
+            "originatingSystemIdentifier": {
+              "value": "PressureSupport_min",
+              "type": "String",
+              "system": "CareOrchestrator"
+            }
+          },
+          "valueQuantity": {
+            "value": 4,
+            "unit": "N/A",
+            "numberOfSamples": null,
+            "comparator": null
+          },
+          "deviceSerialNumber": "JPP1234565FE8",
+          "valueType": "valueQuantity"
+        },
+        {
+          "valueSampledData": null,
+          "valueString": null,
+          "deviceSoftwareVersion": "V1.0.0.894",
+          "effectivePeriod": {
+            "start": 1484784000000,
+            "end": 1484870399000
+          },
+          "identifiers": [
+            {
+              "value": "1108b25d-186c-388e-9674-f9448bf38164",
+              "type": "UUID",
+              "system": "CareOrchestrator"
+            }
+          ],
+          "valueRange": null,
+          "mode": "ASVwithAutoEPAPwithFlex",
+          "originatingSystemIdentifier": {
+            "value": "1108b25d-186c-388e-9674-f9448bf38164",
+            "type": "UUID",
+            "system": "CareOrchestrator"
+          },
+          "deviceMetric": {
+            "category": "calculation",
+            "identifiers": [
+              {
+                "value": "PressureSupport_max",
+                "type": "String",
+                "system": "CareOrchestrator"
+              }
+            ],
+            "originatingSystemIdentifier": {
+              "value": "PressureSupport_max",
+              "type": "String",
+              "system": "CareOrchestrator"
+            }
+          },
+          "valueQuantity": {
+            "value": 15,
+            "unit": "N/A",
+            "numberOfSamples": null,
+            "comparator": null
+          },
+          "deviceSerialNumber": "JPP1234565FE8",
+          "valueType": "valueQuantity"
+        },
+        {
+          "valueSampledData": null,
+          "valueString": null,
+          "deviceSoftwareVersion": "V1.0.0.894",
+          "effectivePeriod": {
+            "start": 1484784000000,
+            "end": 1484870399000
+          },
+          "identifiers": [
+            {
+              "value": "1108b25d-186c-388e-9674-f9448bf38164",
+              "type": "UUID",
+              "system": "CareOrchestrator"
+            }
+          ],
+          "valueRange": null,
+          "mode": "ASVwithAutoEPAPwithFlex",
+          "originatingSystemIdentifier": {
+            "value": "1108b25d-186c-388e-9674-f9448bf38164",
+            "type": "UUID",
+            "system": "CareOrchestrator"
+          },
+          "deviceMetric": {
+            "category": "calculation",
+            "identifiers": [
+              {
+                "value": "BreathRate",
+                "type": "String",
+                "system": "CareOrchestrator"
+              }
+            ],
+            "originatingSystemIdentifier": {
+              "value": "BreathRate",
+              "type": "String",
+              "system": "CareOrchestrator"
+            }
+          },
+          "valueQuantity": {
+            "value": 4,
+            "unit": "N/A",
+            "numberOfSamples": null,
+            "comparator": null
+          },
+          "deviceSerialNumber": "JPP1234565FE8",
+          "valueType": "valueQuantity"
+        }
+      ],
+      "device": {
+        "deviceMobileNumber": null,
+        "versions": [
+          {
+            "value": "V1.0.0.894",
+            "component": "device firmware"
+          }
+        ],
+        "deviceCode": null,
+        "deviceName": "DreamStation BiPAP autoSV",
+        "identifiers": [
+          {
+            "value": "7e4a31da-1c40-4e75-91bc-453afdb971d5",
+            "type": "UUID",
+            "system": "CareOrchestrator"
+          }
+        ],
+        "parent": null,
+        "raspIdentifier": null,
+        "manufacturer": "Philips",
+        "deviceFamily": "DreamStation",
+        "deviceCategory": "Sleep",
+        "deviceSubFamily": "AutoSV",
+        "supportedConnectivityTypes": null,
+        "originatingSystemIdentifier": {
+          "value": "7e4a31da-1c40-4e75-91bc-453afdb971d5",
+          "type": "UUID",
+          "system": "CareOrchestrator"
+        },
+        "serialNumber": "JPP1234565FE8",
+        "modelNumber": "900X110",
+        "eventDateTime": 0
+      },
+      "download": {
+        "originatingSystemIdentifier": {
+          "value": "f9b2e500-52b2-495a-9704-c0220c1e9695",
+          "type": "UUID",
+          "system": "CareOrchestrator"
+        },
+        "eventDateTime": 1710158995122,
+        "recordedOn": 1710158995122,
+        "timingPeriod": {
+          "start": 1484855923000,
+          "end": 1484856230000
+        },
+        "transportIdentifier": "RemovableMedia",
+        "deleted": false
+      },
+      "totalPackets": 8,
+      "patientIdentifier": {
+        "identifier": {
+          "value": "9f8dffcb-d120-4d88-ae52-86ac8ce94df2",
+          "type": "UUID",
+          "system": "CareOrchestrator"
+        },
+        "type": "Patient"
+      },
+      "originatingSystemIdentifier": {
+        "value": "24bad9ed-8481-4d03-b438-6685b1989177",
+        "type": "UUID",
+        "system": "CareOrchestrator"
+      },
+      "supportedPacketsTypes": [
+        "calculation",
+        "measurement",
+        "setting",
+        "unspecified",
+        "waveform",
+        "daysummary"
+      ],
+      "currentPacket": 1,
+      "eventDateTime": 1710158996065
+    }
+  },
+  {
+    "topic": "CTI-co.therapyparsingservice-v2.daysummary-snapshot.therapydataobservation-v2",
+    "partition": 18,
+    "offset": 1,
+    "timestamp": 1710159003151,
+    "headers": null,
+    "key": "\u0000\u0000\u0000\u0000\u0002\u001aJPP1234565FE8",
+    "value": {
+      "observations": [
+        {
+          "valueSampledData": null,
+          "valueString": null,
+          "deviceSoftwareVersion": "V1.0.0.894",
+          "effectivePeriod": {
+            "start": 1484784000000,
+            "end": 1484870399000
+          },
+          "identifiers": [
+            {
+              "value": "1108b25d-186c-388e-9674-f9448bf38164",
+              "type": "UUID",
+              "system": "CareOrchestrator"
+            }
+          ],
+          "valueRange": null,
+          "mode": "ASVwithAutoEPAPwithFlex",
+          "originatingSystemIdentifier": {
+            "value": "1108b25d-186c-388e-9674-f9448bf38164",
+            "type": "UUID",
+            "system": "CareOrchestrator"
+          },
+          "deviceMetric": {
+            "category": "calculation",
+            "identifiers": [
+              {
+                "value": "BreathRate_last",
+                "type": "String",
+                "system": "CareOrchestrator"
+              }
+            ],
+            "originatingSystemIdentifier": {
+              "value": "BreathRate_last",
+              "type": "String",
+              "system": "CareOrchestrator"
+            }
+          },
+          "valueQuantity": {
+            "value": 4,
+            "unit": "N/A",
+            "numberOfSamples": null,
+            "comparator": null
+          },
+          "deviceSerialNumber": "JPP1234565FE8",
+          "valueType": "valueQuantity"
+        },
+        {
+          "valueSampledData": null,
+          "valueString": null,
+          "deviceSoftwareVersion": "V1.0.0.894",
+          "effectivePeriod": {
+            "start": 1484784000000,
+            "end": 1484870399000
+          },
+          "identifiers": [
+            {
+              "value": "1108b25d-186c-388e-9674-f9448bf38164",
+              "type": "UUID",
+              "system": "CareOrchestrator"
+            }
+          ],
+          "valueRange": null,
+          "mode": "ASVwithAutoEPAPwithFlex",
+          "originatingSystemIdentifier": {
+            "value": "1108b25d-186c-388e-9674-f9448bf38164",
+            "type": "UUID",
+            "system": "CareOrchestrator"
+          },
+          "deviceMetric": {
+            "category": "calculation",
+            "identifiers": [
+              {
+                "value": "DominantHumidificationMethodSetting",
+                "type": "String",
+                "system": "CareOrchestrator"
+              }
+            ],
+            "originatingSystemIdentifier": {
+              "value": "DominantHumidificationMethodSetting",
+              "type": "String",
+              "system": "CareOrchestrator"
+            }
+          },
+          "valueQuantity": {
+            "value": 2,
+            "unit": "N/A",
+            "numberOfSamples": null,
+            "comparator": null
+          },
+          "deviceSerialNumber": "JPP1234565FE8",
+          "valueType": "valueQuantity"
+        },
+        {
+          "valueSampledData": null,
+          "valueString": null,
+          "deviceSoftwareVersion": "V1.0.0.894",
+          "effectivePeriod": {
+            "start": 1484784000000,
+            "end": 1484870399000
+          },
+          "identifiers": [
+            {
+              "value": "1108b25d-186c-388e-9674-f9448bf38164",
+              "type": "UUID",
+              "system": "CareOrchestrator"
+            }
+          ],
+          "valueRange": null,
+          "mode": "ASVwithAutoEPAPwithFlex",
+          "originatingSystemIdentifier": {
+            "value": "1108b25d-186c-388e-9674-f9448bf38164",
+            "type": "UUID",
+            "system": "CareOrchestrator"
+          },
+          "deviceMetric": {
+            "category": "calculation",
+            "identifiers": [
+              {
+                "value": "HeatedTubeSettingVaries",
+                "type": "String",
+                "system": "CareOrchestrator"
+              }
+            ],
+            "originatingSystemIdentifier": {
+              "value": "HeatedTubeSettingVaries",
+              "type": "String",
+              "system": "CareOrchestrator"
+            }
+          },
+          "valueQuantity": {
+            "value": 0,
+            "unit": "N/A",
+            "numberOfSamples": null,
+            "comparator": null
+          },
+          "deviceSerialNumber": "JPP1234565FE8",
+          "valueType": "valueQuantity"
+        },
+        {
+          "valueSampledData": null,
+          "valueString": null,
+          "deviceSoftwareVersion": "V1.0.0.894",
+          "effectivePeriod": {
+            "start": 1484784000000,
+            "end": 1484870399000
+          },
+          "identifiers": [
+            {
+              "value": "1108b25d-186c-388e-9674-f9448bf38164",
+              "type": "UUID",
+              "system": "CareOrchestrator"
+            }
+          ],
+          "valueRange": null,
+          "mode": "ASVwithAutoEPAPwithFlex",
+          "originatingSystemIdentifier": {
+            "value": "1108b25d-186c-388e-9674-f9448bf38164",
+            "type": "UUID",
+            "system": "CareOrchestrator"
+          },
+          "deviceMetric": {
+            "category": "calculation",
+            "identifiers": [
+              {
+                "value": "HumidityLevelSettingVaries",
+                "type": "String",
+                "system": "CareOrchestrator"
+              }
+            ],
+            "originatingSystemIdentifier": {
+              "value": "HumidityLevelSettingVaries",
+              "type": "String",
+              "system": "CareOrchestrator"
+            }
+          },
+          "valueQuantity": {
+            "value": 0,
+            "unit": "N/A",
+            "numberOfSamples": null,
+            "comparator": null
+          },
+          "deviceSerialNumber": "JPP1234565FE8",
+          "valueType": "valueQuantity"
+        },
+        {
+          "valueSampledData": null,
+          "valueString": null,
+          "deviceSoftwareVersion": "V1.0.0.894",
+          "effectivePeriod": {
+            "start": 1484784000000,
+            "end": 1484870399000
+          },
+          "identifiers": [
+            {
+              "value": "1108b25d-186c-388e-9674-f9448bf38164",
+              "type": "UUID",
+              "system": "CareOrchestrator"
+            }
+          ],
+          "valueRange": null,
+          "mode": "ASVwithAutoEPAPwithFlex",
+          "originatingSystemIdentifier": {
+            "value": "1108b25d-186c-388e-9674-f9448bf38164",
+            "type": "UUID",
+            "system": "CareOrchestrator"
+          },
+          "deviceMetric": {
+            "category": "calculation",
+            "identifiers": [
+              {
+                "value": "Pressure_Epap_90pct",
+                "type": "String",
+                "system": "CareOrchestrator"
+              }
+            ],
+            "originatingSystemIdentifier": {
+              "value": "Pressure_Epap_90pct",
+              "type": "String",
+              "system": "CareOrchestrator"
+            }
+          },
+          "valueQuantity": {
+            "value": 10.5,
+            "unit": "N/A",
+            "numberOfSamples": null,
+            "comparator": null
+          },
+          "deviceSerialNumber": "JPP1234565FE8",
+          "valueType": "valueQuantity"
+        },
+        {
+          "valueSampledData": null,
+          "valueString": null,
+          "deviceSoftwareVersion": "V1.0.0.894",
+          "effectivePeriod": {
+            "start": 1484784000000,
+            "end": 1484870399000
+          },
+          "identifiers": [
+            {
+              "value": "1108b25d-186c-388e-9674-f9448bf38164",
+              "type": "UUID",
+              "system": "CareOrchestrator"
+            }
+          ],
+          "valueRange": null,
+          "mode": "ASVwithAutoEPAPwithFlex",
+          "originatingSystemIdentifier": {
+            "value": "1108b25d-186c-388e-9674-f9448bf38164",
+            "type": "UUID",
+            "system": "CareOrchestrator"
+          },
+          "deviceMetric": {
+            "category": "calculation",
+            "identifiers": [
+              {
+                "value": "Index_FlowLimitation",
+                "type": "String",
+                "system": "CareOrchestrator"
+              }
+            ],
+            "originatingSystemIdentifier": {
+              "value": "Index_FlowLimitation",
+              "type": "String",
+              "system": "CareOrchestrator"
+            }
+          },
+          "valueQuantity": {
+            "value": 0,
+            "unit": "N/A",
+            "numberOfSamples": null,
+            "comparator": null
+          },
+          "deviceSerialNumber": "JPP1234565FE8",
+          "valueType": "valueQuantity"
+        },
+        {
+          "valueSampledData": null,
+          "valueString": null,
+          "deviceSoftwareVersion": "V1.0.0.894",
+          "effectivePeriod": {
+            "start": 1484784000000,
+            "end": 1484870399000
+          },
+          "identifiers": [
+            {
+              "value": "1108b25d-186c-388e-9674-f9448bf38164",
+              "type": "UUID",
+              "system": "CareOrchestrator"
+            }
+          ],
+          "valueRange": null,
+          "mode": "ASVwithAutoEPAPwithFlex",
+          "originatingSystemIdentifier": {
+            "value": "1108b25d-186c-388e-9674-f9448bf38164",
+            "type": "UUID",
+            "system": "CareOrchestrator"
+          },
+          "deviceMetric": {
+            "category": "calculation",
+            "identifiers": [
+              {
+                "value": "Index_VibratorySnore",
+                "type": "String",
+                "system": "CareOrchestrator"
+              }
+            ],
+            "originatingSystemIdentifier": {
+              "value": "Index_VibratorySnore",
+              "type": "String",
+              "system": "CareOrchestrator"
+            }
+          },
+          "valueQuantity": {
+            "value": 0,
+            "unit": "N/A",
+            "numberOfSamples": null,
+            "comparator": null
+          },
+          "deviceSerialNumber": "JPP1234565FE8",
+          "valueType": "valueQuantity"
+        },
+        {
+          "valueSampledData": null,
+          "valueString": null,
+          "deviceSoftwareVersion": "V1.0.0.894",
+          "effectivePeriod": {
+            "start": 1484784000000,
+            "end": 1484870399000
+          },
+          "identifiers": [
+            {
+              "value": "1108b25d-186c-388e-9674-f9448bf38164",
+              "type": "UUID",
+              "system": "CareOrchestrator"
+            }
+          ],
+          "valueRange": null,
+          "mode": "ASVwithAutoEPAPwithFlex",
+          "originatingSystemIdentifier": {
+            "value": "1108b25d-186c-388e-9674-f9448bf38164",
+            "type": "UUID",
+            "system": "CareOrchestrator"
+          },
+          "deviceMetric": {
+            "category": "calculation",
+            "identifiers": [
+              {
+                "value": "Statistic_Leak_max",
+                "type": "String",
+                "system": "CareOrchestrator"
+              }
+            ],
+            "originatingSystemIdentifier": {
+              "value": "Statistic_Leak_max",
+              "type": "String",
+              "system": "CareOrchestrator"
+            }
+          },
+          "valueQuantity": {
+            "value": 64,
+            "unit": "N/A",
+            "numberOfSamples": null,
+            "comparator": null
+          },
+          "deviceSerialNumber": "JPP1234565FE8",
+          "valueType": "valueQuantity"
+        }
+      ],
+      "device": {
+        "deviceMobileNumber": null,
+        "versions": [
+          {
+            "value": "V1.0.0.894",
+            "component": "device firmware"
+          }
+        ],
+        "deviceCode": null,
+        "deviceName": "DreamStation BiPAP autoSV",
+        "identifiers": [
+          {
+            "value": "7e4a31da-1c40-4e75-91bc-453afdb971d5",
+            "type": "UUID",
+            "system": "CareOrchestrator"
+          }
+        ],
+        "parent": null,
+        "raspIdentifier": null,
+        "manufacturer": "Philips",
+        "deviceFamily": "DreamStation",
+        "deviceCategory": "Sleep",
+        "deviceSubFamily": "AutoSV",
+        "supportedConnectivityTypes": null,
+        "originatingSystemIdentifier": {
+          "value": "7e4a31da-1c40-4e75-91bc-453afdb971d5",
+          "type": "UUID",
+          "system": "CareOrchestrator"
+        },
+        "serialNumber": "JPP1234565FE8",
+        "modelNumber": "900X110",
+        "eventDateTime": 0
+      },
+      "download": {
+        "originatingSystemIdentifier": {
+          "value": "f9b2e500-52b2-495a-9704-c0220c1e9695",
+          "type": "UUID",
+          "system": "CareOrchestrator"
+        },
+        "eventDateTime": 1710158995122,
+        "recordedOn": 1710158995122,
+        "timingPeriod": {
+          "start": 1484855923000,
+          "end": 1484856230000
+        },
+        "transportIdentifier": "RemovableMedia",
+        "deleted": false
+      },
+      "totalPackets": 8,
+      "patientIdentifier": {
+        "identifier": {
+          "value": "9f8dffcb-d120-4d88-ae52-86ac8ce94df2",
+          "type": "UUID",
+          "system": "CareOrchestrator"
+        },
+        "type": "Patient"
+      },
+      "originatingSystemIdentifier": {
+        "value": "9d448d28-8772-4d77-b6d4-477929dca7b1",
+        "type": "UUID",
+        "system": "CareOrchestrator"
+      },
+      "supportedPacketsTypes": [
+        "calculation",
+        "measurement",
+        "setting",
+        "unspecified",
+        "waveform",
+        "daysummary"
+      ],
+      "currentPacket": 2,
+      "eventDateTime": 1710158996065
+    }
+  },
+  {
+    "topic": "CTI-co.therapyparsingservice-v2.daysummary-snapshot.therapydataobservation-v2",
+    "partition": 18,
+    "offset": 2,
+    "timestamp": 1710159003151,
+    "headers": null,
+    "key": "\u0000\u0000\u0000\u0000\u0002\u001aJPP1234565FE8",
+    "value": {
+      "observations": [
+        {
+          "valueSampledData": null,
+          "valueString": null,
+          "deviceSoftwareVersion": "V1.0.0.894",
+          "effectivePeriod": {
+            "start": 1484784000000,
+            "end": 1484870399000
+          },
+          "identifiers": [
+            {
+              "value": "1108b25d-186c-388e-9674-f9448bf38164",
+              "type": "UUID",
+              "system": "CareOrchestrator"
+            }
+          ],
+          "valueRange": null,
+          "mode": "ASVwithAutoEPAPwithFlex",
+          "originatingSystemIdentifier": {
+            "value": "1108b25d-186c-388e-9674-f9448bf38164",
+            "type": "UUID",
+            "system": "CareOrchestrator"
+          },
+          "deviceMetric": {
+            "category": "calculation",
+            "identifiers": [
+              {
+                "value": "Statistic_UnintendedLeak_Max",
+                "type": "String",
+                "system": "CareOrchestrator"
+              }
+            ],
+            "originatingSystemIdentifier": {
+              "value": "Statistic_UnintendedLeak_Max",
+              "type": "String",
+              "system": "CareOrchestrator"
+            }
+          },
+          "valueQuantity": {
+            "value": 11,
+            "unit": "N/A",
+            "numberOfSamples": null,
+            "comparator": null
+          },
+          "deviceSerialNumber": "JPP1234565FE8",
+          "valueType": "valueQuantity"
+        },
+        {
+          "valueSampledData": null,
+          "valueString": null,
+          "deviceSoftwareVersion": "V1.0.0.894",
+          "effectivePeriod": {
+            "start": 1484784000000,
+            "end": 1484870399000
+          },
+          "identifiers": [
+            {
+              "value": "1108b25d-186c-388e-9674-f9448bf38164",
+              "type": "UUID",
+              "system": "CareOrchestrator"
+            }
+          ],
+          "valueRange": null,
+          "mode": "ASVwithAutoEPAPwithFlex",
+          "originatingSystemIdentifier": {
+            "value": "1108b25d-186c-388e-9674-f9448bf38164",
+            "type": "UUID",
+            "system": "CareOrchestrator"
+          },
+          "deviceMetric": {
+            "category": "calculation",
+            "identifiers": [
+              {
+                "value": "Statistic_Leak_90pct",
+                "type": "String",
+                "system": "CareOrchestrator"
+              }
+            ],
+            "originatingSystemIdentifier": {
+              "value": "Statistic_Leak_90pct",
+              "type": "String",
+              "system": "CareOrchestrator"
+            }
+          },
+          "valueQuantity": {
+            "value": 45,
+            "unit": "N/A",
+            "numberOfSamples": null,
+            "comparator": null
+          },
+          "deviceSerialNumber": "JPP1234565FE8",
+          "valueType": "valueQuantity"
+        },
+        {
+          "valueSampledData": null,
+          "valueString": null,
+          "deviceSoftwareVersion": "V1.0.0.894",
+          "effectivePeriod": {
+            "start": 1484784000000,
+            "end": 1484870399000
+          },
+          "identifiers": [
+            {
+              "value": "1108b25d-186c-388e-9674-f9448bf38164",
+              "type": "UUID",
+              "system": "CareOrchestrator"
+            }
+          ],
+          "valueRange": null,
+          "mode": "ASVwithAutoEPAPwithFlex",
+          "originatingSystemIdentifier": {
+            "value": "1108b25d-186c-388e-9674-f9448bf38164",
+            "type": "UUID",
+            "system": "CareOrchestrator"
+          },
+          "deviceMetric": {
+            "category": "calculation",
+            "identifiers": [
+              {
+                "value": "Statistic_Leak_Avg",
+                "type": "String",
+                "system": "CareOrchestrator"
+              }
+            ],
+            "originatingSystemIdentifier": {
+              "value": "Statistic_Leak_Avg",
+              "type": "String",
+              "system": "CareOrchestrator"
+            }
+          },
+          "valueQuantity": {
+            "value": 44,
+            "unit": "N/A",
+            "numberOfSamples": null,
+            "comparator": null
+          },
+          "deviceSerialNumber": "JPP1234565FE8",
+          "valueType": "valueQuantity"
+        },
+        {
+          "valueSampledData": null,
+          "valueString": null,
+          "deviceSoftwareVersion": "V1.0.0.894",
+          "effectivePeriod": {
+            "start": 1484784000000,
+            "end": 1484870399000
+          },
+          "identifiers": [
+            {
+              "value": "1108b25d-186c-388e-9674-f9448bf38164",
+              "type": "UUID",
+              "system": "CareOrchestrator"
+            }
+          ],
+          "valueRange": null,
+          "mode": "ASVwithAutoEPAPwithFlex",
+          "originatingSystemIdentifier": {
+            "value": "1108b25d-186c-388e-9674-f9448bf38164",
+            "type": "UUID",
+            "system": "CareOrchestrator"
+          },
+          "deviceMetric": {
+            "category": "calculation",
+            "identifiers": [
+              {
+                "value": "Statistic_UnintendedLeak_Avg",
+                "type": "String",
+                "system": "CareOrchestrator"
+              }
+            ],
+            "originatingSystemIdentifier": {
+              "value": "Statistic_UnintendedLeak_Avg",
+              "type": "String",
+              "system": "CareOrchestrator"
+            }
+          },
+          "valueQuantity": {
+            "value": 11,
+            "unit": "N/A",
+            "numberOfSamples": null,
+            "comparator": null
+          },
+          "deviceSerialNumber": "JPP1234565FE8",
+          "valueType": "valueQuantity"
+        },
+        {
+          "valueSampledData": null,
+          "valueString": null,
+          "deviceSoftwareVersion": "V1.0.0.894",
+          "effectivePeriod": {
+            "start": 1484784000000,
+            "end": 1484870399000
+          },
+          "identifiers": [
+            {
+              "value": "1108b25d-186c-388e-9674-f9448bf38164",
+              "type": "UUID",
+              "system": "CareOrchestrator"
+            }
+          ],
+          "valueRange": null,
+          "mode": "ASVwithAutoEPAPwithFlex",
+          "originatingSystemIdentifier": {
+            "value": "1108b25d-186c-388e-9674-f9448bf38164",
+            "type": "UUID",
+            "system": "CareOrchestrator"
+          },
+          "deviceMetric": {
+            "category": "calculation",
+            "identifiers": [
+              {
+                "value": "Time_LargeLeak_Seconds",
+                "type": "String",
+                "system": "CareOrchestrator"
+              }
+            ],
+            "originatingSystemIdentifier": {
+              "value": "Time_LargeLeak_Seconds",
+              "type": "String",
+              "system": "CareOrchestrator"
+            }
+          },
+          "valueQuantity": {
+            "value": 0,
+            "unit": "N/A",
+            "numberOfSamples": null,
+            "comparator": null
+          },
+          "deviceSerialNumber": "JPP1234565FE8",
+          "valueType": "valueQuantity"
+        },
+        {
+          "valueSampledData": null,
+          "valueString": null,
+          "deviceSoftwareVersion": "V1.0.0.894",
+          "effectivePeriod": {
+            "start": 1484784000000,
+            "end": 1484870399000
+          },
+          "identifiers": [
+            {
+              "value": "1108b25d-186c-388e-9674-f9448bf38164",
+              "type": "UUID",
+              "system": "CareOrchestrator"
+            }
+          ],
+          "valueRange": null,
+          "mode": "ASVwithAutoEPAPwithFlex",
+          "originatingSystemIdentifier": {
+            "value": "1108b25d-186c-388e-9674-f9448bf38164",
+            "type": "UUID",
+            "system": "CareOrchestrator"
+          },
+          "deviceMetric": {
+            "category": "calculation",
+            "identifiers": [
+              {
+                "value": "Statistic_LL_Pct",
+                "type": "String",
+                "system": "CareOrchestrator"
+              }
+            ],
+            "originatingSystemIdentifier": {
+              "value": "Statistic_LL_Pct",
+              "type": "String",
+              "system": "CareOrchestrator"
+            }
+          },
+          "valueQuantity": {
+            "value": 0,
+            "unit": "N/A",
+            "numberOfSamples": null,
+            "comparator": null
+          },
+          "deviceSerialNumber": "JPP1234565FE8",
+          "valueType": "valueQuantity"
+        },
+        {
+          "valueSampledData": null,
+          "valueString": null,
+          "deviceSoftwareVersion": "V1.0.0.894",
+          "effectivePeriod": {
+            "start": 1484784000000,
+            "end": 1484870399000
+          },
+          "identifiers": [
+            {
+              "value": "1108b25d-186c-388e-9674-f9448bf38164",
+              "type": "UUID",
+              "system": "CareOrchestrator"
+            }
+          ],
+          "valueRange": null,
+          "mode": "ASVwithAutoEPAPwithFlex",
+          "originatingSystemIdentifier": {
+            "value": "1108b25d-186c-388e-9674-f9448bf38164",
+            "type": "UUID",
+            "system": "CareOrchestrator"
+          },
+          "deviceMetric": {
+            "category": "calculation",
+            "identifiers": [
+              {
+                "value": "Statistic_MaskFitPercentage",
+                "type": "String",
+                "system": "CareOrchestrator"
+              }
+            ],
+            "originatingSystemIdentifier": {
+              "value": "Statistic_MaskFitPercentage",
+              "type": "String",
+              "system": "CareOrchestrator"
+            }
+          },
+          "valueQuantity": {
+            "value": 100,
+            "unit": "N/A",
+            "numberOfSamples": null,
+            "comparator": null
+          },
+          "deviceSerialNumber": "JPP1234565FE8",
+          "valueType": "valueQuantity"
+        },
+        {
+          "valueSampledData": null,
+          "valueString": null,
+          "deviceSoftwareVersion": "V1.0.0.894",
+          "effectivePeriod": {
+            "start": 1484784000000,
+            "end": 1484870399000
+          },
+          "identifiers": [
+            {
+              "value": "1108b25d-186c-388e-9674-f9448bf38164",
+              "type": "UUID",
+              "system": "CareOrchestrator"
+            }
+          ],
+          "valueRange": null,
+          "mode": "ASVwithAutoEPAPwithFlex",
+          "originatingSystemIdentifier": {
+            "value": "1108b25d-186c-388e-9674-f9448bf38164",
+            "type": "UUID",
+            "system": "CareOrchestrator"
+          },
+          "deviceMetric": {
+            "category": "calculation",
+            "identifiers": [
+              {
+                "value": "Time_PB_Seconds",
+                "type": "String",
+                "system": "CareOrchestrator"
+              }
+            ],
+            "originatingSystemIdentifier": {
+              "value": "Time_PB_Seconds",
+              "type": "String",
+              "system": "CareOrchestrator"
+            }
+          },
+          "valueQuantity": {
+            "value": 0,
+            "unit": "N/A",
+            "numberOfSamples": null,
+            "comparator": null
+          },
+          "deviceSerialNumber": "JPP1234565FE8",
+          "valueType": "valueQuantity"
+        }
+      ],
+      "device": {
+        "deviceMobileNumber": null,
+        "versions": [
+          {
+            "value": "V1.0.0.894",
+            "component": "device firmware"
+          }
+        ],
+        "deviceCode": null,
+        "deviceName": "DreamStation BiPAP autoSV",
+        "identifiers": [
+          {
+            "value": "7e4a31da-1c40-4e75-91bc-453afdb971d5",
+            "type": "UUID",
+            "system": "CareOrchestrator"
+          }
+        ],
+        "parent": null,
+        "raspIdentifier": null,
+        "manufacturer": "Philips",
+        "deviceFamily": "DreamStation",
+        "deviceCategory": "Sleep",
+        "deviceSubFamily": "AutoSV",
+        "supportedConnectivityTypes": null,
+        "originatingSystemIdentifier": {
+          "value": "7e4a31da-1c40-4e75-91bc-453afdb971d5",
+          "type": "UUID",
+          "system": "CareOrchestrator"
+        },
+        "serialNumber": "JPP1234565FE8",
+        "modelNumber": "900X110",
+        "eventDateTime": 0
+      },
+      "download": {
+        "originatingSystemIdentifier": {
+          "value": "f9b2e500-52b2-495a-9704-c0220c1e9695",
+          "type": "UUID",
+          "system": "CareOrchestrator"
+        },
+        "eventDateTime": 1710158995122,
+        "recordedOn": 1710158995122,
+        "timingPeriod": {
+          "start": 1484855923000,
+          "end": 1484856230000
+        },
+        "transportIdentifier": "RemovableMedia",
+        "deleted": false
+      },
+      "totalPackets": 8,
+      "patientIdentifier": {
+        "identifier": {
+          "value": "9f8dffcb-d120-4d88-ae52-86ac8ce94df2",
+          "type": "UUID",
+          "system": "CareOrchestrator"
+        },
+        "type": "Patient"
+      },
+      "originatingSystemIdentifier": {
+        "value": "f66f55be-68ee-4db5-aba7-ed85a0d5a038",
+        "type": "UUID",
+        "system": "CareOrchestrator"
+      },
+      "supportedPacketsTypes": [
+        "calculation",
+        "measurement",
+        "setting",
+        "unspecified",
+        "waveform",
+        "daysummary"
+      ],
+      "currentPacket": 3,
+      "eventDateTime": 1710158996065
+    }
+  },
+  {
+    "topic": "CTI-co.therapyparsingservice-v2.daysummary-snapshot.therapydataobservation-v2",
+    "partition": 18,
+    "offset": 3,
+    "timestamp": 1710159003151,
+    "headers": null,
+    "key": "\u0000\u0000\u0000\u0000\u0002\u001aJPP1234565FE8",
+    "value": {
+      "observations": [
+        {
+          "valueSampledData": null,
+          "valueString": null,
+          "deviceSoftwareVersion": "V1.0.0.894",
+          "effectivePeriod": {
+            "start": 1484784000000,
+            "end": 1484870399000
+          },
+          "identifiers": [
+            {
+              "value": "1108b25d-186c-388e-9674-f9448bf38164",
+              "type": "UUID",
+              "system": "CareOrchestrator"
+            }
+          ],
+          "valueRange": null,
+          "mode": "ASVwithAutoEPAPwithFlex",
+          "originatingSystemIdentifier": {
+            "value": "1108b25d-186c-388e-9674-f9448bf38164",
+            "type": "UUID",
+            "system": "CareOrchestrator"
+          },
+          "deviceMetric": {
+            "category": "calculation",
+            "identifiers": [
+              {
+                "value": "Time_ExcessivePressure_Seconds",
+                "type": "String",
+                "system": "CareOrchestrator"
+              }
+            ],
+            "originatingSystemIdentifier": {
+              "value": "Time_ExcessivePressure_Seconds",
+              "type": "String",
+              "system": "CareOrchestrator"
+            }
+          },
+          "valueQuantity": {
+            "value": 0,
+            "unit": "N/A",
+            "numberOfSamples": null,
+            "comparator": null
+          },
+          "deviceSerialNumber": "JPP1234565FE8",
+          "valueType": "valueQuantity"
+        },
+        {
+          "valueSampledData": null,
+          "valueString": null,
+          "deviceSoftwareVersion": "V1.0.0.894",
+          "effectivePeriod": {
+            "start": 1484784000000,
+            "end": 1484870399000
+          },
+          "identifiers": [
+            {
+              "value": "1108b25d-186c-388e-9674-f9448bf38164",
+              "type": "UUID",
+              "system": "CareOrchestrator"
+            }
+          ],
+          "valueRange": null,
+          "mode": "ASVwithAutoEPAPwithFlex",
+          "originatingSystemIdentifier": {
+            "value": "1108b25d-186c-388e-9674-f9448bf38164",
+            "type": "UUID",
+            "system": "CareOrchestrator"
+          },
+          "deviceMetric": {
+            "category": "calculation",
+            "identifiers": [
+              {
+                "value": "Time_ApneaObstructedAirway_Seconds",
+                "type": "String",
+                "system": "CareOrchestrator"
+              }
+            ],
+            "originatingSystemIdentifier": {
+              "value": "Time_ApneaObstructedAirway_Seconds",
+              "type": "String",
+              "system": "CareOrchestrator"
+            }
+          },
+          "valueQuantity": {
+            "value": 0,
+            "unit": "N/A",
+            "numberOfSamples": null,
+            "comparator": null
+          },
+          "deviceSerialNumber": "JPP1234565FE8",
+          "valueType": "valueQuantity"
+        },
+        {
+          "valueSampledData": null,
+          "valueString": null,
+          "deviceSoftwareVersion": "V1.0.0.894",
+          "effectivePeriod": {
+            "start": 1484784000000,
+            "end": 1484870399000
+          },
+          "identifiers": [
+            {
+              "value": "1108b25d-186c-388e-9674-f9448bf38164",
+              "type": "UUID",
+              "system": "CareOrchestrator"
+            }
+          ],
+          "valueRange": null,
+          "mode": "ASVwithAutoEPAPwithFlex",
+          "originatingSystemIdentifier": {
+            "value": "1108b25d-186c-388e-9674-f9448bf38164",
+            "type": "UUID",
+            "system": "CareOrchestrator"
+          },
+          "deviceMetric": {
+            "category": "calculation",
+            "identifiers": [
+              {
+                "value": "Time_ApneaClearAirway_Seconds",
+                "type": "String",
+                "system": "CareOrchestrator"
+              }
+            ],
+            "originatingSystemIdentifier": {
+              "value": "Time_ApneaClearAirway_Seconds",
+              "type": "String",
+              "system": "CareOrchestrator"
+            }
+          },
+          "valueQuantity": {
+            "value": 0,
+            "unit": "N/A",
+            "numberOfSamples": null,
+            "comparator": null
+          },
+          "deviceSerialNumber": "JPP1234565FE8",
+          "valueType": "valueQuantity"
+        },
+        {
+          "valueSampledData": null,
+          "valueString": null,
+          "deviceSoftwareVersion": "V1.0.0.894",
+          "effectivePeriod": {
+            "start": 1484784000000,
+            "end": 1484870399000
+          },
+          "identifiers": [
+            {
+              "value": "1108b25d-186c-388e-9674-f9448bf38164",
+              "type": "UUID",
+              "system": "CareOrchestrator"
+            }
+          ],
+          "valueRange": null,
+          "mode": "ASVwithAutoEPAPwithFlex",
+          "originatingSystemIdentifier": {
+            "value": "1108b25d-186c-388e-9674-f9448bf38164",
+            "type": "UUID",
+            "system": "CareOrchestrator"
+          },
+          "deviceMetric": {
+            "category": "calculation",
+            "identifiers": [
+              {
+                "value": "Statistic_PB_pctNight",
+                "type": "String",
+                "system": "CareOrchestrator"
+              }
+            ],
+            "originatingSystemIdentifier": {
+              "value": "Statistic_PB_pctNight",
+              "type": "String",
+              "system": "CareOrchestrator"
+            }
+          },
+          "valueQuantity": {
+            "value": 0,
+            "unit": "N/A",
+            "numberOfSamples": null,
+            "comparator": null
+          },
+          "deviceSerialNumber": "JPP1234565FE8",
+          "valueType": "valueQuantity"
+        },
+        {
+          "valueSampledData": null,
+          "valueString": null,
+          "deviceSoftwareVersion": "V1.0.0.894",
+          "effectivePeriod": {
+            "start": 1484784000000,
+            "end": 1484870399000
+          },
+          "identifiers": [
+            {
+              "value": "1108b25d-186c-388e-9674-f9448bf38164",
+              "type": "UUID",
+              "system": "CareOrchestrator"
+            }
+          ],
+          "valueRange": null,
+          "mode": "ASVwithAutoEPAPwithFlex",
+          "originatingSystemIdentifier": {
+            "value": "1108b25d-186c-388e-9674-f9448bf38164",
+            "type": "UUID",
+            "system": "CareOrchestrator"
+          },
+          "deviceMetric": {
+            "category": "calculation",
+            "identifiers": [
+              {
+                "value": "Statistic_BreathRate",
+                "type": "String",
+                "system": "CareOrchestrator"
+              }
+            ],
+            "originatingSystemIdentifier": {
+              "value": "Statistic_BreathRate",
+              "type": "String",
+              "system": "CareOrchestrator"
+            }
+          },
+          "valueQuantity": {
+            "value": 21,
+            "unit": "N/A",
+            "numberOfSamples": null,
+            "comparator": null
+          },
+          "deviceSerialNumber": "JPP1234565FE8",
+          "valueType": "valueQuantity"
+        },
+        {
+          "valueSampledData": null,
+          "valueString": null,
+          "deviceSoftwareVersion": "V1.0.0.894",
+          "effectivePeriod": {
+            "start": 1484784000000,
+            "end": 1484870399000
+          },
+          "identifiers": [
+            {
+              "value": "1108b25d-186c-388e-9674-f9448bf38164",
+              "type": "UUID",
+              "system": "CareOrchestrator"
+            }
+          ],
+          "valueRange": null,
+          "mode": "ASVwithAutoEPAPwithFlex",
+          "originatingSystemIdentifier": {
+            "value": "1108b25d-186c-388e-9674-f9448bf38164",
+            "type": "UUID",
+            "system": "CareOrchestrator"
+          },
+          "deviceMetric": {
+            "category": "calculation",
+            "identifiers": [
+              {
+                "value": "Pressure_Epap_Avg",
+                "type": "String",
+                "system": "CareOrchestrator"
+              }
+            ],
+            "originatingSystemIdentifier": {
+              "value": "Pressure_Epap_Avg",
+              "type": "String",
+              "system": "CareOrchestrator"
+            }
+          },
+          "valueQuantity": {
+            "value": 10.5,
+            "unit": "N/A",
+            "numberOfSamples": null,
+            "comparator": null
+          },
+          "deviceSerialNumber": "JPP1234565FE8",
+          "valueType": "valueQuantity"
+        },
+        {
+          "valueSampledData": null,
+          "valueString": null,
+          "deviceSoftwareVersion": "V1.0.0.894",
+          "effectivePeriod": {
+            "start": 1484784000000,
+            "end": 1484870399000
+          },
+          "identifiers": [
+            {
+              "value": "1108b25d-186c-388e-9674-f9448bf38164",
+              "type": "UUID",
+              "system": "CareOrchestrator"
+            }
+          ],
+          "valueRange": null,
+          "mode": "ASVwithAutoEPAPwithFlex",
+          "originatingSystemIdentifier": {
+            "value": "1108b25d-186c-388e-9674-f9448bf38164",
+            "type": "UUID",
+            "system": "CareOrchestrator"
+          },
+          "deviceMetric": {
+            "category": "calculation",
+            "identifiers": [
+              {
+                "value": "Statistic_MinuteVent_avg",
+                "type": "String",
+                "system": "CareOrchestrator"
+              }
+            ],
+            "originatingSystemIdentifier": {
+              "value": "Statistic_MinuteVent_avg",
+              "type": "String",
+              "system": "CareOrchestrator"
+            }
+          },
+          "valueQuantity": {
+            "value": 5,
+            "unit": "N/A",
+            "numberOfSamples": null,
+            "comparator": null
+          },
+          "deviceSerialNumber": "JPP1234565FE8",
+          "valueType": "valueQuantity"
+        },
+        {
+          "valueSampledData": null,
+          "valueString": null,
+          "deviceSoftwareVersion": "V1.0.0.894",
+          "effectivePeriod": {
+            "start": 1484784000000,
+            "end": 1484870399000
+          },
+          "identifiers": [
+            {
+              "value": "1108b25d-186c-388e-9674-f9448bf38164",
+              "type": "UUID",
+              "system": "CareOrchestrator"
+            }
+          ],
+          "valueRange": null,
+          "mode": "ASVwithAutoEPAPwithFlex",
+          "originatingSystemIdentifier": {
+            "value": "1108b25d-186c-388e-9674-f9448bf38164",
+            "type": "UUID",
+            "system": "CareOrchestrator"
+          },
+          "deviceMetric": {
+            "category": "calculation",
+            "identifiers": [
+              {
+                "value": "Statistic_TrigBreaths_pct",
+                "type": "String",
+                "system": "CareOrchestrator"
+              }
+            ],
+            "originatingSystemIdentifier": {
+              "value": "Statistic_TrigBreaths_pct",
+              "type": "String",
+              "system": "CareOrchestrator"
+            }
+          },
+          "valueQuantity": {
+            "value": 95,
+            "unit": "N/A",
+            "numberOfSamples": null,
+            "comparator": null
+          },
+          "deviceSerialNumber": "JPP1234565FE8",
+          "valueType": "valueQuantity"
+        }
+      ],
+      "device": {
+        "deviceMobileNumber": null,
+        "versions": [
+          {
+            "value": "V1.0.0.894",
+            "component": "device firmware"
+          }
+        ],
+        "deviceCode": null,
+        "deviceName": "DreamStation BiPAP autoSV",
+        "identifiers": [
+          {
+            "value": "7e4a31da-1c40-4e75-91bc-453afdb971d5",
+            "type": "UUID",
+            "system": "CareOrchestrator"
+          }
+        ],
+        "parent": null,
+        "raspIdentifier": null,
+        "manufacturer": "Philips",
+        "deviceFamily": "DreamStation",
+        "deviceCategory": "Sleep",
+        "deviceSubFamily": "AutoSV",
+        "supportedConnectivityTypes": null,
+        "originatingSystemIdentifier": {
+          "value": "7e4a31da-1c40-4e75-91bc-453afdb971d5",
+          "type": "UUID",
+          "system": "CareOrchestrator"
+        },
+        "serialNumber": "JPP1234565FE8",
+        "modelNumber": "900X110",
+        "eventDateTime": 0
+      },
+      "download": {
+        "originatingSystemIdentifier": {
+          "value": "f9b2e500-52b2-495a-9704-c0220c1e9695",
+          "type": "UUID",
+          "system": "CareOrchestrator"
+        },
+        "eventDateTime": 1710158995122,
+        "recordedOn": 1710158995122,
+        "timingPeriod": {
+          "start": 1484855923000,
+          "end": 1484856230000
+        },
+        "transportIdentifier": "RemovableMedia",
+        "deleted": false
+      },
+      "totalPackets": 8,
+      "patientIdentifier": {
+        "identifier": {
+          "value": "9f8dffcb-d120-4d88-ae52-86ac8ce94df2",
+          "type": "UUID",
+          "system": "CareOrchestrator"
+        },
+        "type": "Patient"
+      },
+      "originatingSystemIdentifier": {
+        "value": "8f5f0a95-e982-46fd-ad9b-d66eea8b1ca5",
+        "type": "UUID",
+        "system": "CareOrchestrator"
+      },
+      "supportedPacketsTypes": [
+        "calculation",
+        "measurement",
+        "setting",
+        "unspecified",
+        "waveform",
+        "daysummary"
+      ],
+      "currentPacket": 4,
+      "eventDateTime": 1710158996065
+    }
+  },
+  {
+    "topic": "CTI-co.therapyparsingservice-v2.daysummary-snapshot.therapydataobservation-v2",
+    "partition": 18,
+    "offset": 4,
+    "timestamp": 1710159003156,
+    "headers": null,
+    "key": "\u0000\u0000\u0000\u0000\u0002\u001aJPP1234565FE8",
+    "value": {
+      "observations": [
+        {
+          "valueSampledData": null,
+          "valueString": null,
+          "deviceSoftwareVersion": "V1.0.0.894",
+          "effectivePeriod": {
+            "start": 1484784000000,
+            "end": 1484870399000
+          },
+          "identifiers": [
+            {
+              "value": "1108b25d-186c-388e-9674-f9448bf38164",
+              "type": "UUID",
+              "system": "CareOrchestrator"
+            }
+          ],
+          "valueRange": null,
+          "mode": "ASVwithAutoEPAPwithFlex",
+          "originatingSystemIdentifier": {
+            "value": "1108b25d-186c-388e-9674-f9448bf38164",
+            "type": "UUID",
+            "system": "CareOrchestrator"
+          },
+          "deviceMetric": {
+            "category": "calculation",
+            "identifiers": [
+              {
+                "value": "Statistic_PressureSupport_avg",
+                "type": "String",
+                "system": "CareOrchestrator"
+              }
+            ],
+            "originatingSystemIdentifier": {
+              "value": "Statistic_PressureSupport_avg",
+              "type": "String",
+              "system": "CareOrchestrator"
+            }
+          },
+          "valueQuantity": {
+            "value": 12.199999809265137,
+            "unit": "N/A",
+            "numberOfSamples": null,
+            "comparator": null
+          },
+          "deviceSerialNumber": "JPP1234565FE8",
+          "valueType": "valueQuantity"
+        },
+        {
+          "valueSampledData": null,
+          "valueString": null,
+          "deviceSoftwareVersion": "V1.0.0.894",
+          "effectivePeriod": {
+            "start": 1484784000000,
+            "end": 1484870399000
+          },
+          "identifiers": [
+            {
+              "value": "1108b25d-186c-388e-9674-f9448bf38164",
+              "type": "UUID",
+              "system": "CareOrchestrator"
+            }
+          ],
+          "valueRange": null,
+          "mode": "ASVwithAutoEPAPwithFlex",
+          "originatingSystemIdentifier": {
+            "value": "1108b25d-186c-388e-9674-f9448bf38164",
+            "type": "UUID",
+            "system": "CareOrchestrator"
+          },
+          "deviceMetric": {
+            "category": "calculation",
+            "identifiers": [
+              {
+                "value": "Statistic_PressureSupport_90pct",
+                "type": "String",
+                "system": "CareOrchestrator"
+              }
+            ],
+            "originatingSystemIdentifier": {
+              "value": "Statistic_PressureSupport_90pct",
+              "type": "String",
+              "system": "CareOrchestrator"
+            }
+          },
+          "valueQuantity": {
+            "value": 15,
+            "unit": "N/A",
+            "numberOfSamples": null,
+            "comparator": null
+          },
+          "deviceSerialNumber": "JPP1234565FE8",
+          "valueType": "valueQuantity"
+        },
+        {
+          "valueSampledData": null,
+          "valueString": null,
+          "deviceSoftwareVersion": "V1.0.0.894",
+          "effectivePeriod": {
+            "start": 1484784000000,
+            "end": 1484870399000
+          },
+          "identifiers": [
+            {
+              "value": "1108b25d-186c-388e-9674-f9448bf38164",
+              "type": "UUID",
+              "system": "CareOrchestrator"
+            }
+          ],
+          "valueRange": null,
+          "mode": "ASVwithAutoEPAPwithFlex",
+          "originatingSystemIdentifier": {
+            "value": "1108b25d-186c-388e-9674-f9448bf38164",
+            "type": "UUID",
+            "system": "CareOrchestrator"
+          },
+          "deviceMetric": {
+            "category": "calculation",
+            "identifiers": [
+              {
+                "value": "Index_Hypopnea_ClearAirway",
+                "type": "String",
+                "system": "CareOrchestrator"
+              }
+            ],
+            "originatingSystemIdentifier": {
+              "value": "Index_Hypopnea_ClearAirway",
+              "type": "String",
+              "system": "CareOrchestrator"
+            }
+          },
+          "valueQuantity": {
+            "value": 0,
+            "unit": "N/A",
+            "numberOfSamples": null,
+            "comparator": null
+          },
+          "deviceSerialNumber": "JPP1234565FE8",
+          "valueType": "valueQuantity"
+        },
+        {
+          "valueSampledData": null,
+          "valueString": null,
+          "deviceSoftwareVersion": "V1.0.0.894",
+          "effectivePeriod": {
+            "start": 1484784000000,
+            "end": 1484870399000
+          },
+          "identifiers": [
+            {
+              "value": "1108b25d-186c-388e-9674-f9448bf38164",
+              "type": "UUID",
+              "system": "CareOrchestrator"
+            }
+          ],
+          "valueRange": null,
+          "mode": "ASVwithAutoEPAPwithFlex",
+          "originatingSystemIdentifier": {
+            "value": "1108b25d-186c-388e-9674-f9448bf38164",
+            "type": "UUID",
+            "system": "CareOrchestrator"
+          },
+          "deviceMetric": {
+            "category": "calculation",
+            "identifiers": [
+              {
+                "value": "Index_Hypopnea_ObstructedAirway",
+                "type": "String",
+                "system": "CareOrchestrator"
+              }
+            ],
+            "originatingSystemIdentifier": {
+              "value": "Index_Hypopnea_ObstructedAirway",
+              "type": "String",
+              "system": "CareOrchestrator"
+            }
+          },
+          "valueQuantity": {
+            "value": 0,
+            "unit": "N/A",
+            "numberOfSamples": null,
+            "comparator": null
+          },
+          "deviceSerialNumber": "JPP1234565FE8",
+          "valueType": "valueQuantity"
+        },
+        {
+          "valueSampledData": null,
+          "valueString": null,
+          "deviceSoftwareVersion": "V1.0.0.894",
+          "effectivePeriod": {
+            "start": 1484784000000,
+            "end": 1484870399000
+          },
+          "identifiers": [
+            {
+              "value": "1108b25d-186c-388e-9674-f9448bf38164",
+              "type": "UUID",
+              "system": "CareOrchestrator"
+            }
+          ],
+          "valueRange": null,
+          "mode": "ASVwithAutoEPAPwithFlex",
+          "originatingSystemIdentifier": {
+            "value": "1108b25d-186c-388e-9674-f9448bf38164",
+            "type": "UUID",
+            "system": "CareOrchestrator"
+          },
+          "deviceMetric": {
+            "category": "calculation",
+            "identifiers": [
+              {
+                "value": "Index_LargeLeakAH",
+                "type": "String",
+                "system": "CareOrchestrator"
+              }
+            ],
+            "originatingSystemIdentifier": {
+              "value": "Index_LargeLeakAH",
+              "type": "String",
+              "system": "CareOrchestrator"
+            }
+          },
+          "valueQuantity": {
+            "value": 0,
+            "unit": "N/A",
+            "numberOfSamples": null,
+            "comparator": null
+          },
+          "deviceSerialNumber": "JPP1234565FE8",
+          "valueType": "valueQuantity"
+        },
+        {
+          "valueSampledData": null,
+          "valueString": null,
+          "deviceSoftwareVersion": "V1.0.0.894",
+          "effectivePeriod": {
+            "start": 1484784000000,
+            "end": 1484870399000
+          },
+          "identifiers": [
+            {
+              "value": "1108b25d-186c-388e-9674-f9448bf38164",
+              "type": "UUID",
+              "system": "CareOrchestrator"
+            }
+          ],
+          "valueRange": null,
+          "mode": "ASVwithAutoEPAPwithFlex",
+          "originatingSystemIdentifier": {
+            "value": "1108b25d-186c-388e-9674-f9448bf38164",
+            "type": "UUID",
+            "system": "CareOrchestrator"
+          },
+          "deviceMetric": {
+            "category": "calculation",
+            "identifiers": [
+              {
+                "value": "Index_Total_Hypopnea",
+                "type": "String",
+                "system": "CareOrchestrator"
+              }
+            ],
+            "originatingSystemIdentifier": {
+              "value": "Index_Total_Hypopnea",
+              "type": "String",
+              "system": "CareOrchestrator"
+            }
+          },
+          "valueQuantity": {
+            "value": 0,
+            "unit": "N/A",
+            "numberOfSamples": null,
+            "comparator": null
+          },
+          "deviceSerialNumber": "JPP1234565FE8",
+          "valueType": "valueQuantity"
+        },
+        {
+          "valueSampledData": null,
+          "valueString": null,
+          "deviceSoftwareVersion": "V1.0.0.894",
+          "effectivePeriod": {
+            "start": 1484784000000,
+            "end": 1484870399000
+          },
+          "identifiers": [
+            {
+              "value": "1108b25d-186c-388e-9674-f9448bf38164",
+              "type": "UUID",
+              "system": "CareOrchestrator"
+            }
+          ],
+          "valueRange": null,
+          "mode": "ASVwithAutoEPAPwithFlex",
+          "originatingSystemIdentifier": {
+            "value": "1108b25d-186c-388e-9674-f9448bf38164",
+            "type": "UUID",
+            "system": "CareOrchestrator"
+          },
+          "deviceMetric": {
+            "category": "calculation",
+            "identifiers": [
+              {
+                "value": "Index_Apnea_ObstructedAirway",
+                "type": "String",
+                "system": "CareOrchestrator"
+              }
+            ],
+            "originatingSystemIdentifier": {
+              "value": "Index_Apnea_ObstructedAirway",
+              "type": "String",
+              "system": "CareOrchestrator"
+            }
+          },
+          "valueQuantity": {
+            "value": 0,
+            "unit": "N/A",
+            "numberOfSamples": null,
+            "comparator": null
+          },
+          "deviceSerialNumber": "JPP1234565FE8",
+          "valueType": "valueQuantity"
+        },
+        {
+          "valueSampledData": null,
+          "valueString": null,
+          "deviceSoftwareVersion": "V1.0.0.894",
+          "effectivePeriod": {
+            "start": 1484784000000,
+            "end": 1484870399000
+          },
+          "identifiers": [
+            {
+              "value": "1108b25d-186c-388e-9674-f9448bf38164",
+              "type": "UUID",
+              "system": "CareOrchestrator"
+            }
+          ],
+          "valueRange": null,
+          "mode": "ASVwithAutoEPAPwithFlex",
+          "originatingSystemIdentifier": {
+            "value": "1108b25d-186c-388e-9674-f9448bf38164",
+            "type": "UUID",
+            "system": "CareOrchestrator"
+          },
+          "deviceMetric": {
+            "category": "calculation",
+            "identifiers": [
+              {
+                "value": "Index_Apnea_ClearAirway",
+                "type": "String",
+                "system": "CareOrchestrator"
+              }
+            ],
+            "originatingSystemIdentifier": {
+              "value": "Index_Apnea_ClearAirway",
+              "type": "String",
+              "system": "CareOrchestrator"
+            }
+          },
+          "valueQuantity": {
+            "value": 0,
+            "unit": "N/A",
+            "numberOfSamples": null,
+            "comparator": null
+          },
+          "deviceSerialNumber": "JPP1234565FE8",
+          "valueType": "valueQuantity"
+        }
+      ],
+      "device": {
+        "deviceMobileNumber": null,
+        "versions": [
+          {
+            "value": "V1.0.0.894",
+            "component": "device firmware"
+          }
+        ],
+        "deviceCode": null,
+        "deviceName": "DreamStation BiPAP autoSV",
+        "identifiers": [
+          {
+            "value": "7e4a31da-1c40-4e75-91bc-453afdb971d5",
+            "type": "UUID",
+            "system": "CareOrchestrator"
+          }
+        ],
+        "parent": null,
+        "raspIdentifier": null,
+        "manufacturer": "Philips",
+        "deviceFamily": "DreamStation",
+        "deviceCategory": "Sleep",
+        "deviceSubFamily": "AutoSV",
+        "supportedConnectivityTypes": null,
+        "originatingSystemIdentifier": {
+          "value": "7e4a31da-1c40-4e75-91bc-453afdb971d5",
+          "type": "UUID",
+          "system": "CareOrchestrator"
+        },
+        "serialNumber": "JPP1234565FE8",
+        "modelNumber": "900X110",
+        "eventDateTime": 0
+      },
+      "download": {
+        "originatingSystemIdentifier": {
+          "value": "f9b2e500-52b2-495a-9704-c0220c1e9695",
+          "type": "UUID",
+          "system": "CareOrchestrator"
+        },
+        "eventDateTime": 1710158995122,
+        "recordedOn": 1710158995122,
+        "timingPeriod": {
+          "start": 1484855923000,
+          "end": 1484856230000
+        },
+        "transportIdentifier": "RemovableMedia",
+        "deleted": false
+      },
+      "totalPackets": 8,
+      "patientIdentifier": {
+        "identifier": {
+          "value": "9f8dffcb-d120-4d88-ae52-86ac8ce94df2",
+          "type": "UUID",
+          "system": "CareOrchestrator"
+        },
+        "type": "Patient"
+      },
+      "originatingSystemIdentifier": {
+        "value": "7a07c4de-2bd2-4f95-a117-60ed9a5e4208",
+        "type": "UUID",
+        "system": "CareOrchestrator"
+      },
+      "supportedPacketsTypes": [
+        "calculation",
+        "measurement",
+        "setting",
+        "unspecified",
+        "waveform",
+        "daysummary"
+      ],
+      "currentPacket": 5,
+      "eventDateTime": 1710158996065
+    }
+  },
+  {
+    "topic": "CTI-co.therapyparsingservice-v2.daysummary-snapshot.therapydataobservation-v2",
+    "partition": 18,
+    "offset": 5,
+    "timestamp": 1710159003156,
+    "headers": null,
+    "key": "\u0000\u0000\u0000\u0000\u0002\u001aJPP1234565FE8",
+    "value": {
+      "observations": [
+        {
+          "valueSampledData": null,
+          "valueString": null,
+          "deviceSoftwareVersion": "V1.0.0.894",
+          "effectivePeriod": {
+            "start": 1484784000000,
+            "end": 1484870399000
+          },
+          "identifiers": [
+            {
+              "value": "1108b25d-186c-388e-9674-f9448bf38164",
+              "type": "UUID",
+              "system": "CareOrchestrator"
+            }
+          ],
+          "valueRange": null,
+          "mode": "ASVwithAutoEPAPwithFlex",
+          "originatingSystemIdentifier": {
+            "value": "1108b25d-186c-388e-9674-f9448bf38164",
+            "type": "UUID",
+            "system": "CareOrchestrator"
+          },
+          "deviceMetric": {
+            "category": "calculation",
+            "identifiers": [
+              {
+                "value": "Index_Total_Apnea",
+                "type": "String",
+                "system": "CareOrchestrator"
+              }
+            ],
+            "originatingSystemIdentifier": {
+              "value": "Index_Total_Apnea",
+              "type": "String",
+              "system": "CareOrchestrator"
+            }
+          },
+          "valueQuantity": {
+            "value": 0,
+            "unit": "N/A",
+            "numberOfSamples": null,
+            "comparator": null
+          },
+          "deviceSerialNumber": "JPP1234565FE8",
+          "valueType": "valueQuantity"
+        },
+        {
+          "valueSampledData": null,
+          "valueString": null,
+          "deviceSoftwareVersion": "V1.0.0.894",
+          "effectivePeriod": {
+            "start": 1484784000000,
+            "end": 1484870399000
+          },
+          "identifiers": [
+            {
+              "value": "1108b25d-186c-388e-9674-f9448bf38164",
+              "type": "UUID",
+              "system": "CareOrchestrator"
+            }
+          ],
+          "valueRange": null,
+          "mode": "ASVwithAutoEPAPwithFlex",
+          "originatingSystemIdentifier": {
+            "value": "1108b25d-186c-388e-9674-f9448bf38164",
+            "type": "UUID",
+            "system": "CareOrchestrator"
+          },
+          "deviceMetric": {
+            "category": "calculation",
+            "identifiers": [
+              {
+                "value": "Index_Apnea_Hypopnea",
+                "type": "String",
+                "system": "CareOrchestrator"
+              }
+            ],
+            "originatingSystemIdentifier": {
+              "value": "Index_Apnea_Hypopnea",
+              "type": "String",
+              "system": "CareOrchestrator"
+            }
+          },
+          "valueQuantity": {
+            "value": 0,
+            "unit": "N/A",
+            "numberOfSamples": null,
+            "comparator": null
+          },
+          "deviceSerialNumber": "JPP1234565FE8",
+          "valueType": "valueQuantity"
+        },
+        {
+          "valueSampledData": null,
+          "valueString": null,
+          "deviceSoftwareVersion": "V1.0.0.894",
+          "effectivePeriod": {
+            "start": 1484784000000,
+            "end": 1484870399000
+          },
+          "identifiers": [
+            {
+              "value": "1108b25d-186c-388e-9674-f9448bf38164",
+              "type": "UUID",
+              "system": "CareOrchestrator"
+            }
+          ],
+          "valueRange": null,
+          "mode": "ASVwithAutoEPAPwithFlex",
+          "originatingSystemIdentifier": {
+            "value": "1108b25d-186c-388e-9674-f9448bf38164",
+            "type": "UUID",
+            "system": "CareOrchestrator"
+          },
+          "deviceMetric": {
+            "category": "calculation",
+            "identifiers": [
+              {
+                "value": "Statistic_AvgExhaledTidalVolume",
+                "type": "String",
+                "system": "CareOrchestrator"
+              }
+            ],
+            "originatingSystemIdentifier": {
+              "value": "Statistic_AvgExhaledTidalVolume",
+              "type": "String",
+              "system": "CareOrchestrator"
+            }
+          },
+          "valueQuantity": {
+            "value": 250,
+            "unit": "N/A",
+            "numberOfSamples": null,
+            "comparator": null
+          },
+          "deviceSerialNumber": "JPP1234565FE8",
+          "valueType": "valueQuantity"
+        },
+        {
+          "valueSampledData": null,
+          "valueString": null,
+          "deviceSoftwareVersion": "V1.0.0.894",
+          "effectivePeriod": {
+            "start": 1484784000000,
+            "end": 1484870399000
+          },
+          "identifiers": [
+            {
+              "value": "1108b25d-186c-388e-9674-f9448bf38164",
+              "type": "UUID",
+              "system": "CareOrchestrator"
+            }
+          ],
+          "valueRange": null,
+          "mode": "ASVwithAutoEPAPwithFlex",
+          "originatingSystemIdentifier": {
+            "value": "1108b25d-186c-388e-9674-f9448bf38164",
+            "type": "UUID",
+            "system": "CareOrchestrator"
+          },
+          "deviceMetric": {
+            "category": "calculation",
+            "identifiers": [
+              {
+                "value": "Statistic_AvgHumidityLevelSetting",
+                "type": "String",
+                "system": "CareOrchestrator"
+              }
+            ],
+            "originatingSystemIdentifier": {
+              "value": "Statistic_AvgHumidityLevelSetting",
+              "type": "String",
+              "system": "CareOrchestrator"
+            }
+          },
+          "valueQuantity": {
+            "value": 3,
+            "unit": "N/A",
+            "numberOfSamples": null,
+            "comparator": null
+          },
+          "deviceSerialNumber": "JPP1234565FE8",
+          "valueType": "valueQuantity"
+        },
+        {
+          "valueSampledData": null,
+          "valueString": null,
+          "deviceSoftwareVersion": "V1.0.0.894",
+          "effectivePeriod": {
+            "start": 1484784000000,
+            "end": 1484870399000
+          },
+          "identifiers": [
+            {
+              "value": "1108b25d-186c-388e-9674-f9448bf38164",
+              "type": "UUID",
+              "system": "CareOrchestrator"
+            }
+          ],
+          "valueRange": null,
+          "mode": "ASVwithAutoEPAPwithFlex",
+          "originatingSystemIdentifier": {
+            "value": "1108b25d-186c-388e-9674-f9448bf38164",
+            "type": "UUID",
+            "system": "CareOrchestrator"
+          },
+          "deviceMetric": {
+            "category": "calculation",
+            "identifiers": [
+              {
+                "value": "Statistic_AvgHeatedTubeSetting",
+                "type": "String",
+                "system": "CareOrchestrator"
+              }
+            ],
+            "originatingSystemIdentifier": {
+              "value": "Statistic_AvgHeatedTubeSetting",
+              "type": "String",
+              "system": "CareOrchestrator"
+            }
+          },
+          "valueQuantity": {
+            "value": 3,
+            "unit": "N/A",
+            "numberOfSamples": null,
+            "comparator": null
+          },
+          "deviceSerialNumber": "JPP1234565FE8",
+          "valueType": "valueQuantity"
+        },
+        {
+          "valueSampledData": null,
+          "valueString": null,
+          "deviceSoftwareVersion": "V1.0.0.894",
+          "effectivePeriod": {
+            "start": 1484784000000,
+            "end": 1484870399000
+          },
+          "identifiers": [
+            {
+              "value": "1108b25d-186c-388e-9674-f9448bf38164",
+              "type": "UUID",
+              "system": "CareOrchestrator"
+            }
+          ],
+          "valueRange": null,
+          "mode": "ASVwithAutoEPAPwithFlex",
+          "originatingSystemIdentifier": {
+            "value": "1108b25d-186c-388e-9674-f9448bf38164",
+            "type": "UUID",
+            "system": "CareOrchestrator"
+          },
+          "deviceMetric": {
+            "category": "calculation",
+            "identifiers": [
+              {
+                "value": "Time_ClassicHumidification",
+                "type": "String",
+                "system": "CareOrchestrator"
+              }
+            ],
+            "originatingSystemIdentifier": {
+              "value": "Time_ClassicHumidification",
+              "type": "String",
+              "system": "CareOrchestrator"
+            }
+          },
+          "valueQuantity": {
+            "value": 0,
+            "unit": "N/A",
+            "numberOfSamples": null,
+            "comparator": null
+          },
+          "deviceSerialNumber": "JPP1234565FE8",
+          "valueType": "valueQuantity"
+        },
+        {
+          "valueSampledData": null,
+          "valueString": null,
+          "deviceSoftwareVersion": "V1.0.0.894",
+          "effectivePeriod": {
+            "start": 1484784000000,
+            "end": 1484870399000
+          },
+          "identifiers": [
+            {
+              "value": "1108b25d-186c-388e-9674-f9448bf38164",
+              "type": "UUID",
+              "system": "CareOrchestrator"
+            }
+          ],
+          "valueRange": null,
+          "mode": "ASVwithAutoEPAPwithFlex",
+          "originatingSystemIdentifier": {
+            "value": "1108b25d-186c-388e-9674-f9448bf38164",
+            "type": "UUID",
+            "system": "CareOrchestrator"
+          },
+          "deviceMetric": {
+            "category": "calculation",
+            "identifiers": [
+              {
+                "value": "Time_SystemOneHumidification",
+                "type": "String",
+                "system": "CareOrchestrator"
+              }
+            ],
+            "originatingSystemIdentifier": {
+              "value": "Time_SystemOneHumidification",
+              "type": "String",
+              "system": "CareOrchestrator"
+            }
+          },
+          "valueQuantity": {
+            "value": 0,
+            "unit": "N/A",
+            "numberOfSamples": null,
+            "comparator": null
+          },
+          "deviceSerialNumber": "JPP1234565FE8",
+          "valueType": "valueQuantity"
+        },
+        {
+          "valueSampledData": null,
+          "valueString": null,
+          "deviceSoftwareVersion": "V1.0.0.894",
+          "effectivePeriod": {
+            "start": 1484784000000,
+            "end": 1484870399000
+          },
+          "identifiers": [
+            {
+              "value": "1108b25d-186c-388e-9674-f9448bf38164",
+              "type": "UUID",
+              "system": "CareOrchestrator"
+            }
+          ],
+          "valueRange": null,
+          "mode": "ASVwithAutoEPAPwithFlex",
+          "originatingSystemIdentifier": {
+            "value": "1108b25d-186c-388e-9674-f9448bf38164",
+            "type": "UUID",
+            "system": "CareOrchestrator"
+          },
+          "deviceMetric": {
+            "category": "calculation",
+            "identifiers": [
+              {
+                "value": "Time_HeatedTubeHumidification",
+                "type": "String",
+                "system": "CareOrchestrator"
+              }
+            ],
+            "originatingSystemIdentifier": {
+              "value": "Time_HeatedTubeHumidification",
+              "type": "String",
+              "system": "CareOrchestrator"
+            }
+          },
+          "valueQuantity": {
+            "value": 307,
+            "unit": "N/A",
+            "numberOfSamples": null,
+            "comparator": null
+          },
+          "deviceSerialNumber": "JPP1234565FE8",
+          "valueType": "valueQuantity"
+        }
+      ],
+      "device": {
+        "deviceMobileNumber": null,
+        "versions": [
+          {
+            "value": "V1.0.0.894",
+            "component": "device firmware"
+          }
+        ],
+        "deviceCode": null,
+        "deviceName": "DreamStation BiPAP autoSV",
+        "identifiers": [
+          {
+            "value": "7e4a31da-1c40-4e75-91bc-453afdb971d5",
+            "type": "UUID",
+            "system": "CareOrchestrator"
+          }
+        ],
+        "parent": null,
+        "raspIdentifier": null,
+        "manufacturer": "Philips",
+        "deviceFamily": "DreamStation",
+        "deviceCategory": "Sleep",
+        "deviceSubFamily": "AutoSV",
+        "supportedConnectivityTypes": null,
+        "originatingSystemIdentifier": {
+          "value": "7e4a31da-1c40-4e75-91bc-453afdb971d5",
+          "type": "UUID",
+          "system": "CareOrchestrator"
+        },
+        "serialNumber": "JPP1234565FE8",
+        "modelNumber": "900X110",
+        "eventDateTime": 0
+      },
+      "download": {
+        "originatingSystemIdentifier": {
+          "value": "f9b2e500-52b2-495a-9704-c0220c1e9695",
+          "type": "UUID",
+          "system": "CareOrchestrator"
+        },
+        "eventDateTime": 1710158995122,
+        "recordedOn": 1710158995122,
+        "timingPeriod": {
+          "start": 1484855923000,
+          "end": 1484856230000
+        },
+        "transportIdentifier": "RemovableMedia",
+        "deleted": false
+      },
+      "totalPackets": 8,
+      "patientIdentifier": {
+        "identifier": {
+          "value": "9f8dffcb-d120-4d88-ae52-86ac8ce94df2",
+          "type": "UUID",
+          "system": "CareOrchestrator"
+        },
+        "type": "Patient"
+      },
+      "originatingSystemIdentifier": {
+        "value": "5b28b917-4571-4454-98da-eb9914a0e71f",
+        "type": "UUID",
+        "system": "CareOrchestrator"
+      },
+      "supportedPacketsTypes": [
+        "calculation",
+        "measurement",
+        "setting",
+        "unspecified",
+        "waveform",
+        "daysummary"
+      ],
+      "currentPacket": 6,
+      "eventDateTime": 1710158996065
+    }
+  },
+  {
+    "topic": "CTI-co.therapyparsingservice-v2.daysummary-snapshot.therapydataobservation-v2",
+    "partition": 18,
+    "offset": 6,
+    "timestamp": 1710159003157,
+    "headers": null,
+    "key": "\u0000\u0000\u0000\u0000\u0002\u001aJPP1234565FE8",
+    "value": {
+      "observations": [
+        {
+          "valueSampledData": null,
+          "valueString": null,
+          "deviceSoftwareVersion": "V1.0.0.894",
+          "effectivePeriod": {
+            "start": 1484784000000,
+            "end": 1484870399000
+          },
+          "identifiers": [
+            {
+              "value": "1108b25d-186c-388e-9674-f9448bf38164",
+              "type": "UUID",
+              "system": "CareOrchestrator"
+            }
+          ],
+          "valueRange": null,
+          "mode": "ASVwithAutoEPAPwithFlex",
+          "originatingSystemIdentifier": {
+            "value": "1108b25d-186c-388e-9674-f9448bf38164",
+            "type": "UUID",
+            "system": "CareOrchestrator"
+          },
+          "deviceMetric": {
+            "category": "calculation",
+            "identifiers": [
+              {
+                "value": "Time_DisconnectedHumidification",
+                "type": "String",
+                "system": "CareOrchestrator"
+              }
+            ],
+            "originatingSystemIdentifier": {
+              "value": "Time_DisconnectedHumidification",
+              "type": "String",
+              "system": "CareOrchestrator"
+            }
+          },
+          "valueQuantity": {
+            "value": 0,
+            "unit": "N/A",
+            "numberOfSamples": null,
+            "comparator": null
+          },
+          "deviceSerialNumber": "JPP1234565FE8",
+          "valueType": "valueQuantity"
+        },
+        {
+          "valueSampledData": null,
+          "valueString": null,
+          "deviceSoftwareVersion": "V1.0.0.894",
+          "effectivePeriod": {
+            "start": 1484784000000,
+            "end": 1484870399000
+          },
+          "identifiers": [
+            {
+              "value": "1108b25d-186c-388e-9674-f9448bf38164",
+              "type": "UUID",
+              "system": "CareOrchestrator"
+            }
+          ],
+          "valueRange": null,
+          "mode": "ASVwithAutoEPAPwithFlex",
+          "originatingSystemIdentifier": {
+            "value": "1108b25d-186c-388e-9674-f9448bf38164",
+            "type": "UUID",
+            "system": "CareOrchestrator"
+          },
+          "deviceMetric": {
+            "category": "calculation",
+            "identifiers": [
+              {
+                "value": "Time_ErrorHumidification",
+                "type": "String",
+                "system": "CareOrchestrator"
+              }
+            ],
+            "originatingSystemIdentifier": {
+              "value": "Time_ErrorHumidification",
+              "type": "String",
+              "system": "CareOrchestrator"
+            }
+          },
+          "valueQuantity": {
+            "value": 0,
+            "unit": "N/A",
+            "numberOfSamples": null,
+            "comparator": null
+          },
+          "deviceSerialNumber": "JPP1234565FE8",
+          "valueType": "valueQuantity"
+        },
+        {
+          "valueSampledData": null,
+          "valueString": null,
+          "deviceSoftwareVersion": "V1.0.0.894",
+          "effectivePeriod": {
+            "start": 1484784000000,
+            "end": 1484870399000
+          },
+          "identifiers": [
+            {
+              "value": "1108b25d-186c-388e-9674-f9448bf38164",
+              "type": "UUID",
+              "system": "CareOrchestrator"
+            }
+          ],
+          "valueRange": null,
+          "mode": "ASVwithAutoEPAPwithFlex",
+          "originatingSystemIdentifier": {
+            "value": "1108b25d-186c-388e-9674-f9448bf38164",
+            "type": "UUID",
+            "system": "CareOrchestrator"
+          },
+          "deviceMetric": {
+            "category": "calculation",
+            "identifiers": [
+              {
+                "value": "Time_PassOverHumidification",
+                "type": "String",
+                "system": "CareOrchestrator"
+              }
+            ],
+            "originatingSystemIdentifier": {
+              "value": "Time_PassOverHumidification",
+              "type": "String",
+              "system": "CareOrchestrator"
+            }
+          },
+          "valueQuantity": {
+            "value": 0,
+            "unit": "N/A",
+            "numberOfSamples": null,
+            "comparator": null
+          },
+          "deviceSerialNumber": "JPP1234565FE8",
+          "valueType": "valueQuantity"
+        },
+        {
+          "valueSampledData": null,
+          "valueString": null,
+          "deviceSoftwareVersion": "V1.0.0.894",
+          "effectivePeriod": {
+            "start": 1484784000000,
+            "end": 1484870399000
+          },
+          "identifiers": [
+            {
+              "value": "1108b25d-186c-388e-9674-f9448bf38164",
+              "type": "UUID",
+              "system": "CareOrchestrator"
+            }
+          ],
+          "valueRange": null,
+          "mode": "ASVwithAutoEPAPwithFlex",
+          "originatingSystemIdentifier": {
+            "value": "1108b25d-186c-388e-9674-f9448bf38164",
+            "type": "UUID",
+            "system": "CareOrchestrator"
+          },
+          "deviceMetric": {
+            "category": "calculation",
+            "identifiers": [
+              {
+                "value": "Statistic_AvgAmbientTemperatureCelcius",
+                "type": "String",
+                "system": "CareOrchestrator"
+              }
+            ],
+            "originatingSystemIdentifier": {
+              "value": "Statistic_AvgAmbientTemperatureCelcius",
+              "type": "String",
+              "system": "CareOrchestrator"
+            }
+          },
+          "valueQuantity": {
+            "value": 26,
+            "unit": "N/A",
+            "numberOfSamples": null,
+            "comparator": null
+          },
+          "deviceSerialNumber": "JPP1234565FE8",
+          "valueType": "valueQuantity"
+        },
+        {
+          "valueSampledData": null,
+          "valueString": null,
+          "deviceSoftwareVersion": "V1.0.0.894",
+          "effectivePeriod": {
+            "start": 1484784000000,
+            "end": 1484870399000
+          },
+          "identifiers": [
+            {
+              "value": "1108b25d-186c-388e-9674-f9448bf38164",
+              "type": "UUID",
+              "system": "CareOrchestrator"
+            }
+          ],
+          "valueRange": null,
+          "mode": "ASVwithAutoEPAPwithFlex",
+          "originatingSystemIdentifier": {
+            "value": "1108b25d-186c-388e-9674-f9448bf38164",
+            "type": "UUID",
+            "system": "CareOrchestrator"
+          },
+          "deviceMetric": {
+            "category": "calculation",
+            "identifiers": [
+              {
+                "value": "Statistic_AvgAmbientHumidity",
+                "type": "String",
+                "system": "CareOrchestrator"
+              }
+            ],
+            "originatingSystemIdentifier": {
+              "value": "Statistic_AvgAmbientHumidity",
+              "type": "String",
+              "system": "CareOrchestrator"
+            }
+          },
+          "valueQuantity": {
+            "value": 24,
+            "unit": "N/A",
+            "numberOfSamples": null,
+            "comparator": null
+          },
+          "deviceSerialNumber": "JPP1234565FE8",
+          "valueType": "valueQuantity"
+        },
+        {
+          "valueSampledData": null,
+          "valueString": null,
+          "deviceSoftwareVersion": "V1.0.0.894",
+          "effectivePeriod": {
+            "start": 1484784000000,
+            "end": 1484870399000
+          },
+          "identifiers": [
+            {
+              "value": "1108b25d-186c-388e-9674-f9448bf38164",
+              "type": "UUID",
+              "system": "CareOrchestrator"
+            }
+          ],
+          "valueRange": null,
+          "mode": "ASVwithAutoEPAPwithFlex",
+          "originatingSystemIdentifier": {
+            "value": "1108b25d-186c-388e-9674-f9448bf38164",
+            "type": "UUID",
+            "system": "CareOrchestrator"
+          },
+          "deviceMetric": {
+            "category": "calculation",
+            "identifiers": [
+              {
+                "value": "Statistic_OpeningAdaptiveThresholdPressure",
+                "type": "String",
+                "system": "CareOrchestrator"
+              }
+            ],
+            "originatingSystemIdentifier": {
+              "value": "Statistic_OpeningAdaptiveThresholdPressure",
+              "type": "String",
+              "system": "CareOrchestrator"
+            }
+          },
+          "valueQuantity": {
+            "value": 10.5,
+            "unit": "N/A",
+            "numberOfSamples": null,
+            "comparator": null
+          },
+          "deviceSerialNumber": "JPP1234565FE8",
+          "valueType": "valueQuantity"
+        },
+        {
+          "valueSampledData": null,
+          "valueString": null,
+          "deviceSoftwareVersion": "V1.0.0.894",
+          "effectivePeriod": {
+            "start": 1484784000000,
+            "end": 1484870399000
+          },
+          "identifiers": [
+            {
+              "value": "1108b25d-186c-388e-9674-f9448bf38164",
+              "type": "UUID",
+              "system": "CareOrchestrator"
+            }
+          ],
+          "valueRange": null,
+          "mode": "ASVwithAutoEPAPwithFlex",
+          "originatingSystemIdentifier": {
+            "value": "1108b25d-186c-388e-9674-f9448bf38164",
+            "type": "UUID",
+            "system": "CareOrchestrator"
+          },
+          "deviceMetric": {
+            "category": "calculation",
+            "identifiers": [
+              {
+                "value": "Pressure_Ipap_90pct",
+                "type": "String",
+                "system": "CareOrchestrator"
+              }
+            ],
+            "originatingSystemIdentifier": {
+              "value": "Pressure_Ipap_90pct",
+              "type": "String",
+              "system": "CareOrchestrator"
+            }
+          },
+          "valueQuantity": {
+            "value": 24.200000762939453,
+            "unit": "N/A",
+            "numberOfSamples": null,
+            "comparator": null
+          },
+          "deviceSerialNumber": "JPP1234565FE8",
+          "valueType": "valueQuantity"
+        },
+        {
+          "valueSampledData": null,
+          "valueString": null,
+          "deviceSoftwareVersion": "V1.0.0.894",
+          "effectivePeriod": {
+            "start": 1484784000000,
+            "end": 1484870399000
+          },
+          "identifiers": [
+            {
+              "value": "1108b25d-186c-388e-9674-f9448bf38164",
+              "type": "UUID",
+              "system": "CareOrchestrator"
+            }
+          ],
+          "valueRange": null,
+          "mode": "ASVwithAutoEPAPwithFlex",
+          "originatingSystemIdentifier": {
+            "value": "1108b25d-186c-388e-9674-f9448bf38164",
+            "type": "UUID",
+            "system": "CareOrchestrator"
+          },
+          "deviceMetric": {
+            "category": "calculation",
+            "identifiers": [
+              {
+                "value": "Statistic_UnintendedLeak_90pct",
+                "type": "String",
+                "system": "CareOrchestrator"
+              }
+            ],
+            "originatingSystemIdentifier": {
+              "value": "Statistic_UnintendedLeak_90pct",
+              "type": "String",
+              "system": "CareOrchestrator"
+            }
+          },
+          "valueQuantity": {
+            "value": 11,
+            "unit": "N/A",
+            "numberOfSamples": null,
+            "comparator": null
+          },
+          "deviceSerialNumber": "JPP1234565FE8",
+          "valueType": "valueQuantity"
+        }
+      ],
+      "device": {
+        "deviceMobileNumber": null,
+        "versions": [
+          {
+            "value": "V1.0.0.894",
+            "component": "device firmware"
+          }
+        ],
+        "deviceCode": null,
+        "deviceName": "DreamStation BiPAP autoSV",
+        "identifiers": [
+          {
+            "value": "7e4a31da-1c40-4e75-91bc-453afdb971d5",
+            "type": "UUID",
+            "system": "CareOrchestrator"
+          }
+        ],
+        "parent": null,
+        "raspIdentifier": null,
+        "manufacturer": "Philips",
+        "deviceFamily": "DreamStation",
+        "deviceCategory": "Sleep",
+        "deviceSubFamily": "AutoSV",
+        "supportedConnectivityTypes": null,
+        "originatingSystemIdentifier": {
+          "value": "7e4a31da-1c40-4e75-91bc-453afdb971d5",
+          "type": "UUID",
+          "system": "CareOrchestrator"
+        },
+        "serialNumber": "JPP1234565FE8",
+        "modelNumber": "900X110",
+        "eventDateTime": 0
+      },
+      "download": {
+        "originatingSystemIdentifier": {
+          "value": "f9b2e500-52b2-495a-9704-c0220c1e9695",
+          "type": "UUID",
+          "system": "CareOrchestrator"
+        },
+        "eventDateTime": 1710158995122,
+        "recordedOn": 1710158995122,
+        "timingPeriod": {
+          "start": 1484855923000,
+          "end": 1484856230000
+        },
+        "transportIdentifier": "RemovableMedia",
+        "deleted": false
+      },
+      "totalPackets": 8,
+      "patientIdentifier": {
+        "identifier": {
+          "value": "9f8dffcb-d120-4d88-ae52-86ac8ce94df2",
+          "type": "UUID",
+          "system": "CareOrchestrator"
+        },
+        "type": "Patient"
+      },
+      "originatingSystemIdentifier": {
+        "value": "d2577ef1-d124-4f35-ac0b-ed9e08665e25",
+        "type": "UUID",
+        "system": "CareOrchestrator"
+      },
+      "supportedPacketsTypes": [
+        "calculation",
+        "measurement",
+        "setting",
+        "unspecified",
+        "waveform",
+        "daysummary"
+      ],
+      "currentPacket": 7,
+      "eventDateTime": 1710158996065
+    }
+  },
+  {
+    "topic": "CTI-co.therapyparsingservice-v2.daysummary-snapshot.therapydataobservation-v2",
+    "partition": 18,
+    "offset": 7,
+    "timestamp": 1710159003157,
+    "headers": null,
+    "key": "\u0000\u0000\u0000\u0000\u0002\u001aJPP1234565FE8",
+    "value": {
+      "observations": [
+        {
+          "valueSampledData": null,
+          "valueString": null,
+          "deviceSoftwareVersion": "V1.0.0.894",
+          "effectivePeriod": {
+            "start": 1484784000000,
+            "end": 1484870399000
+          },
+          "identifiers": [
+            {
+              "value": "1108b25d-186c-388e-9674-f9448bf38164",
+              "type": "UUID",
+              "system": "CareOrchestrator"
+            }
+          ],
+          "valueRange": null,
+          "mode": "ASVwithAutoEPAPwithFlex",
+          "originatingSystemIdentifier": {
+            "value": "1108b25d-186c-388e-9674-f9448bf38164",
+            "type": "UUID",
+            "system": "CareOrchestrator"
+          },
+          "deviceMetric": {
+            "category": "calculation",
+            "identifiers": [
+              {
+                "value": "Statistic_TotalLeak_Median",
+                "type": "String",
+                "system": "CareOrchestrator"
+              }
+            ],
+            "originatingSystemIdentifier": {
+              "value": "Statistic_TotalLeak_Median",
+              "type": "String",
+              "system": "CareOrchestrator"
+            }
+          },
+          "valueQuantity": {
+            "value": 45,
+            "unit": "N/A",
+            "numberOfSamples": null,
+            "comparator": null
+          },
+          "deviceSerialNumber": "JPP1234565FE8",
+          "valueType": "valueQuantity"
+        },
+        {
+          "valueSampledData": null,
+          "valueString": null,
+          "deviceSoftwareVersion": "V1.0.0.894",
+          "effectivePeriod": {
+            "start": 1484784000000,
+            "end": 1484870399000
+          },
+          "identifiers": [
+            {
+              "value": "1108b25d-186c-388e-9674-f9448bf38164",
+              "type": "UUID",
+              "system": "CareOrchestrator"
+            }
+          ],
+          "valueRange": null,
+          "mode": "ASVwithAutoEPAPwithFlex",
+          "originatingSystemIdentifier": {
+            "value": "1108b25d-186c-388e-9674-f9448bf38164",
+            "type": "UUID",
+            "system": "CareOrchestrator"
+          },
+          "deviceMetric": {
+            "category": "calculation",
+            "identifiers": [
+              {
+                "value": "Statistic_UnintendedLeak_Median",
+                "type": "String",
+                "system": "CareOrchestrator"
+              }
+            ],
+            "originatingSystemIdentifier": {
+              "value": "Statistic_UnintendedLeak_Median",
+              "type": "String",
+              "system": "CareOrchestrator"
+            }
+          },
+          "valueQuantity": {
+            "value": 11,
+            "unit": "N/A",
+            "numberOfSamples": null,
+            "comparator": null
+          },
+          "deviceSerialNumber": "JPP1234565FE8",
+          "valueType": "valueQuantity"
+        },
+        {
+          "valueSampledData": null,
+          "valueString": null,
+          "deviceSoftwareVersion": "V1.0.0.894",
+          "effectivePeriod": {
+            "start": 1484784000000,
+            "end": 1484870399000
+          },
+          "identifiers": [
+            {
+              "value": "1108b25d-186c-388e-9674-f9448bf38164",
+              "type": "UUID",
+              "system": "CareOrchestrator"
+            }
+          ],
+          "valueRange": null,
+          "mode": "ASVwithAutoEPAPwithFlex",
+          "originatingSystemIdentifier": {
+            "value": "1108b25d-186c-388e-9674-f9448bf38164",
+            "type": "UUID",
+            "system": "CareOrchestrator"
+          },
+          "deviceMetric": {
+            "category": "calculation",
+            "identifiers": [
+              {
+                "value": "Total_Connect_Time_Seconds",
+                "type": "String",
+                "system": "CareOrchestrator"
+              }
+            ],
+            "originatingSystemIdentifier": {
+              "value": "Total_Connect_Time_Seconds",
+              "type": "String",
+              "system": "CareOrchestrator"
+            }
+          },
+          "valueQuantity": {
+            "value": 307,
+            "unit": "N/A",
+            "numberOfSamples": null,
+            "comparator": null
+          },
+          "deviceSerialNumber": "JPP1234565FE8",
+          "valueType": "valueQuantity"
+        },
+        {
+          "valueSampledData": null,
+          "valueString": null,
+          "deviceSoftwareVersion": "V1.0.0.894",
+          "effectivePeriod": {
+            "start": 1484784000000,
+            "end": 1484870399000
+          },
+          "identifiers": [
+            {
+              "value": "1108b25d-186c-388e-9674-f9448bf38164",
+              "type": "UUID",
+              "system": "CareOrchestrator"
+            }
+          ],
+          "valueRange": null,
+          "mode": "ASVwithAutoEPAPwithFlex",
+          "originatingSystemIdentifier": {
+            "value": "1108b25d-186c-388e-9674-f9448bf38164",
+            "type": "UUID",
+            "system": "CareOrchestrator"
+          },
+          "deviceMetric": {
+            "category": "calculation",
+            "identifiers": [
+              {
+                "value": "Total_Blower_Time_Seconds",
+                "type": "String",
+                "system": "CareOrchestrator"
+              }
+            ],
+            "originatingSystemIdentifier": {
+              "value": "Total_Blower_Time_Seconds",
+              "type": "String",
+              "system": "CareOrchestrator"
+            }
+          },
+          "valueQuantity": {
+            "value": 307,
+            "unit": "N/A",
+            "numberOfSamples": null,
+            "comparator": null
+          },
+          "deviceSerialNumber": "JPP1234565FE8",
+          "valueType": "valueQuantity"
+        }
+      ],
+      "device": {
+        "deviceMobileNumber": null,
+        "versions": [
+          {
+            "value": "V1.0.0.894",
+            "component": "device firmware"
+          }
+        ],
+        "deviceCode": null,
+        "deviceName": "DreamStation BiPAP autoSV",
+        "identifiers": [
+          {
+            "value": "7e4a31da-1c40-4e75-91bc-453afdb971d5",
+            "type": "UUID",
+            "system": "CareOrchestrator"
+          }
+        ],
+        "parent": null,
+        "raspIdentifier": null,
+        "manufacturer": "Philips",
+        "deviceFamily": "DreamStation",
+        "deviceCategory": "Sleep",
+        "deviceSubFamily": "AutoSV",
+        "supportedConnectivityTypes": null,
+        "originatingSystemIdentifier": {
+          "value": "7e4a31da-1c40-4e75-91bc-453afdb971d5",
+          "type": "UUID",
+          "system": "CareOrchestrator"
+        },
+        "serialNumber": "JPP1234565FE8",
+        "modelNumber": "900X110",
+        "eventDateTime": 0
+      },
+      "download": {
+        "originatingSystemIdentifier": {
+          "value": "f9b2e500-52b2-495a-9704-c0220c1e9695",
+          "type": "UUID",
+          "system": "CareOrchestrator"
+        },
+        "eventDateTime": 1710158995122,
+        "recordedOn": 1710158995122,
+        "timingPeriod": {
+          "start": 1484855923000,
+          "end": 1484856230000
+        },
+        "transportIdentifier": "RemovableMedia",
+        "deleted": false
+      },
+      "totalPackets": 8,
+      "patientIdentifier": {
+        "identifier": {
+          "value": "9f8dffcb-d120-4d88-ae52-86ac8ce94df2",
+          "type": "UUID",
+          "system": "CareOrchestrator"
+        },
+        "type": "Patient"
+      },
+      "originatingSystemIdentifier": {
+        "value": "85ed7991-7c8b-4bf3-94a3-c7f21f2ee5ad",
+        "type": "UUID",
+        "system": "CareOrchestrator"
+      },
+      "supportedPacketsTypes": [
+        "calculation",
+        "measurement",
+        "setting",
+        "unspecified",
+        "waveform",
+        "daysummary"
+      ],
+      "currentPacket": 8,
+      "eventDateTime": 1710158996065
+    }
+  }
+]

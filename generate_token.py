@@ -10,6 +10,7 @@ def generate_token(device_number):
     headers = {'x-amzn-iot-thingname': 'Tulip-thing-{}'.format(device_number)}
 
     try:
+        print("Fetching the secure access token from IoT Core Credentials Provider...")
         # Make the request
         response = requests.get(url, cert=cert, headers=headers)
             
@@ -19,6 +20,7 @@ def generate_token(device_number):
                 # print("Response:", response.text)
                 response_data=json.loads(response.text)
                 access_credentials = response_data.get('credentials', {})
+                print("Successfully obtained secure token from IoT Credentials Provider!")
                 return access_credentials
         else:
                 # Request failed, print the status code and reason

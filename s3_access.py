@@ -4,9 +4,9 @@ from generate_token import generate_token
 import os
 
 # Specify the bucket name and object key
-bucket_name = 'my-simulator-k-bucket'
-object_key = 'File1'
-path="./docs.txt"
+bucket_name = 'iottestdevicedata'
+object_key = 'deviceData'
+path="./deviceData.json"
 
 def s3_access(device_number):
     try:
@@ -18,9 +18,6 @@ def s3_access(device_number):
                 access_key_id = access_credentials.get('accessKeyId')
                 secret_access_key = access_credentials.get('secretAccessKey')
                 session_token = access_credentials.get('sessionToken')
-                # print("Access Key ID:", access_key_id)
-                # print("Secret Access Key:", secret_access_key)
-                # print("Session Token:", session_token)
                 
                 s3 = boto3.client('s3',aws_access_key_id=access_key_id,aws_secret_access_key=secret_access_key,aws_session_token=session_token)
                 # s3 = boto3.client('s3')
@@ -36,7 +33,6 @@ def s3_access(device_number):
                         print("Error uploading to S3:", e)
                 elif n==2:
                         try:
-                            print(bucket_name)
                             response = s3.get_object(Bucket=bucket_name, Key=object_key)
                             data = response['Body'].read()
                             print("Data from S3:", data)
