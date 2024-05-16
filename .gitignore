@@ -1,5 +1,5 @@
-./awsRootCA.pem
-./deviceRootCA.pem
-./deviceRootCA.key
-./deviceRootCA.srl
-./deviceData.json
+/awsRootCA.pem
+/deviceRootCA.pem
+/deviceRootCA.key
+/deviceRootCA.srl
+/deviceData.json
