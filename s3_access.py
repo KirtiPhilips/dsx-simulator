@@ -2,6 +2,7 @@ import boto3
 import requests
 from generate_token import generate_token
 import os
+from notification_iot import notification_to_iot
 
 # Specify the bucket name and object key
 bucket_name = 'iottestdevicedata'
@@ -28,9 +29,13 @@ def s3_access(device_number):
                     # fetch data from the s3 bucket
                     try:
                         s3.upload_file(path, bucket_name, object_key)
-                        print("Upload successful!")
                     except Exception as e:
                         print("Error uploading to S3:", e)
+                    try:
+                        notification_to_iot(device_number,bucket_name,object_key)
+                        print("Upload successful!")
+                    except Exception as e:
+                        print("Error notifying to Iot:", e)
                 elif n==2:
                         try:
                             response = s3.get_object(Bucket=bucket_name, Key=object_key)

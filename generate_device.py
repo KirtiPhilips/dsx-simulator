@@ -9,7 +9,6 @@ def generate_device(count_of_devices):
                 command = ["openssl", "genrsa", "-out",  "deviceCert_{}.key".format(i), "2048"]
                 subprocess.run(command, check=True)
                 print("RSA private key generated successfully for device")
-# dfds
 
                 req_command = ["openssl", "req", "-new", "-key",  "deviceCert_{}.key".format(i), "-out","deviceCert_{}.csr".format(i)]
                 input_values = "US\n\n\nTulip\nTulip-dev\nTulip-thing-{}\n\n\n\n".format(i)
